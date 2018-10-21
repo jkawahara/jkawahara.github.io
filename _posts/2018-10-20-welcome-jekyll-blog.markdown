@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Welcome to Jekyll Blog!"
-date:   2018-10-20 22:42:00
-categories: jekyll update
+date:   2018-10-20 22:42
+categories: jekyll
 ---
 
 After some thought on blogging, and a very helpful suggestion by [androidgrl][androidgrl], decided to go with Jekyll for a simple, static website, served up on my GitHub Page.
@@ -22,9 +22,9 @@ Testing was simple by [building and making available][jekyll-quickstart] on loca
 bundle exec jekyll serve
 {% endhighlight %}
 
-Finally the reward of deploying to my GitHub Page:) This was done by using Git on my local machine and setting up a remote GitHub repo as "username.github.io" and using default configuration for "master branch" as source:
+Finally the reward of deploying to my GitHub Page:) This was done by setting up Git gracking of the local directory along with setting up a remote GitHub repo as "username.github.io" then leveraging default configuration for "master branch" as source:
 
-![github_pages_config.png](/images/github_pages_config.png){:class="img-responsive"}
+![github_pages_config.png](/images/github_pages_config.png)
 
 [jekyll-themes]: https://jekyllthemes.io/free
 [jekyll-architect]:    https://jekyllthemes.io/theme/architect-theme
