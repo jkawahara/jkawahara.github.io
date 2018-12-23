@@ -481,6 +481,14 @@ header h2 {
   letter-spacing: 0;
 }
 
+header a {
+  color: #9ddcff;
+}
+
+header a:hover {
+  color: white;
+}
+
 .inner {
   position: relative;
   width: 940px;
@@ -494,7 +502,7 @@ header h2 {
 
 #main-content {
   float: left;
-  width: 690px;
+  width: 900px;
 }
 
 #main-content img {
@@ -503,7 +511,7 @@ header h2 {
 
 aside#sidebar {
   float: right;
-  width: 200px;
+  width: 180px;
   min-height: 504px;
   padding-left: 20px;
   font-size: 12px;
@@ -758,14 +766,73 @@ dl dd {
 * html .clearfix {height: 1%;}
 .clearfix {display: block;}
 
+/* Elements on specific pages
+================================================== */
+.main-section {
+  float: left;
+  width: 100%;
+  max-width: 795px;
+  padding: 30px 30px 0px 30px;
+  background: #fff;
+  border: 1px solid #ddd;
+}
+
+.work {
+  position: relative;
+  float: left;
+  width: 345px;
+  margin: 0px 30px 35px 5px;
+  overflow: auto;
+}
+
+.work:nth-child(even) {
+  margin-right: 0px;
+}
+
+.work img {
+  width: 100%;
+  border: 0 none;
+  opacity: 0.8;
+}
+
+.work h3 {
+  position: absolute;
+  bottom: 20px;
+  width: 100%;
+  padding: 15px;
+  margin-bottom: 0;
+  font-weight: 300;
+  line-height: 30px;
+  color: #ffffff;
+  text-align: center;
+  background: #4aaaa5;
+  border-bottom: 0;
+}
+
+.auth-image {
+  float: left;
+  width: 200px;
+  height: auto;
+  margin-top: 10px;
+  margin-right: 25px;
+}
+
 /* #Media Queries
 ================================================== */
+@media only screen and (max-width: 1200px) {
+  #main-content {
+    width: 95%;
+  }
+}
 
-/* Smaller than standard 960 (devices and browsers) */
-@media only screen and (max-width: 959px) { }
+@media only screen and (max-width: 992px) {
+  #main-content {
+    width: 85%;
+  }
+}
 
 /* Tablet Portrait size to standard 960 (devices and browsers) */
-@media only screen and (min-width: 768px) and (max-width: 959px) {
+@media only screen and (max-width: 959px) {
   .inner {
     width: 740px;
   }
@@ -779,7 +846,7 @@ dl dd {
     font-size: 30px;
   }
   #main-content {
-    width: 490px;
+    width: 85%;
   }
   #main-content h1:before,
   #main-content h2:before,

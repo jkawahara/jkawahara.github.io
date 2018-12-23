@@ -1,0 +1,14 @@
+pages_title: KawShon
+pages:
+
+- title: About Me
+  url: aboutme.html
+
+- title: Blog Posts
+  url: blog.html
+
+- title: Portfolio
+  url: index.html
+
+- title: Contact
+  url: contact.html
