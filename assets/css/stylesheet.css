@@ -819,15 +819,31 @@ dl dd {
 
 /* #Media Queries
 ================================================== */
-@media only screen and (max-width: 1200px) {
+@media only screen and (max-width: 1199px) {
   #main-content {
     width: 95%;
   }
+  
+  .work {
+    position: relative;
+    float: left;
+    width: 290px;
+    margin: 0px 30px 35px 5px;
+    overflow: auto;
+  }
 }
 
-@media only screen and (max-width: 992px) {
+@media only screen and (max-width: 991px) {
   #main-content {
-    width: 85%;
+    width: 80%;
+  }
+
+  .work {
+    position: relative;
+    float: left;
+    width: 345px;
+    margin: 0px 30px 35px 5px;
+    overflow: auto;
   }
 }
 
@@ -846,7 +862,7 @@ dl dd {
     font-size: 30px;
   }
   #main-content {
-    width: 85%;
+    width: 80%;
   }
   #main-content h1:before,
   #main-content h2:before,
@@ -901,7 +917,10 @@ dl dd {
     display: inline;
     font-size: 13px;
   }
-  #main-content,
+  #main-content {
+    width: 92%;
+  }
+
   aside#sidebar {
     float: none;
     width: 100% ! important;
@@ -925,6 +944,20 @@ dl dd {
     padding-right: 0;
     margin-left: 0;
     content: none;
+  }
+}
+
+/* All Mobile Sizes (devices and browser) */
+@media only screen and (max-width: 576px) {
+  #main-content {
+    width: 412px;
+  }
+}
+
+/* All Mobile Sizes (devices and browser) */
+@media only screen and (max-width: 505px) {
+  header {
+    width: 505px;
   }
 }
 
