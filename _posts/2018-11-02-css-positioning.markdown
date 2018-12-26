@@ -7,7 +7,7 @@ categories: css
 
 DevOps practitioners provide an overview in [DevOps Foundations][devops-foundations] course.
 
-![devops_foundations_welcome.png]({{ site.baseurl }}/images/devops_foundations_welcome.png)
+![devops_foundations_welcome.png]({{ site.baseurl }}/assets/images/devops_foundations_welcome.png)
 
 Much of the Continuous Improvement efforts of Automation within Biotech (my background of 2 decades), is well aligned with the current DevOps practices.
 
