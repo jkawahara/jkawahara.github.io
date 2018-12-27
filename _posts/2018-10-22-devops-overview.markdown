@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "DevOps Foundations"
-date:   2018-10-22 14:40
+date:   2018-10-22
 categories: devops
 ---
 

@@ -1,0 +1,7 @@
+<nav class="col-md-2">
+  <ul class="list-unstyled">
+    {% for item in site.data.navigation.pages %}
+      <li><a href="{{ site.baseurl }}/{{ item.url }}">{{ item.title }}</a></li>
+    {% endfor %}
+  </ul>
+</nav>

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Terminology via Podcasts"
-date:   2018-10-24 12:00
+date:   2018-10-24
 categories: podcast
 ---
 

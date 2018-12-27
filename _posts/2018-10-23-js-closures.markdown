@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "JavaScript Closures"
-date:   2018-10-23 11:53
+date:   2018-10-23
 categories: javascript
 ---
 

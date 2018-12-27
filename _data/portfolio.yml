@@ -1,0 +1,42 @@
+projects_title: Portfolio Data
+projects:
+
+- title: Eat-Da-Burger
+  url: https://serene-dawn-91369.herokuapp.com/
+  img: assets/images/burger.png
+
+- title: FriendFinder
+  url: https://fierce-falls-39849.herokuapp.com/
+  img: assets/images/friendfinder.png
+
+- title: Bamazon CL
+  url: https://github.com/jkawahara/bamazon-cl
+  img: assets/images/bamazon-cl.png
+
+- title: Word Guess Game CL
+  url: https://github.com/jkawahara/word-guess-game-cl
+  img: assets/images/word-guess-game-cl.png
+
+- title: LIRI Bot
+  url: https://github.com/jkawahara/liri-node-app
+  img: assets/images/liri-bot.png
+
+- title: Train Scheduler
+  url: https://jkawahara.github.io/firebase/
+  img: assets/images/trainscheduler.png
+
+- title: gifTastic
+  url: https://jkawahara.github.io/gifTastic/
+  img: assets/images/giftastic.png
+
+- title: Trivia Game
+  url: https://jkawahara.github.io/TriviaGame/
+  img: assets/images/triviagame.jpg
+
+- title: RPG Game
+  url: https://jkawahara.github.io/unit-4-game/
+  img: assets/images/rpg.jpg
+
+- title: Word Guess
+  url: https://jkawahara.github.io/Word-Guess-Game/
+  img: assets/images/bootcamp.jpg
