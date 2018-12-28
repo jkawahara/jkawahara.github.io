@@ -2,7 +2,7 @@ pages_title: Pages Data
 pages:
 
 - title: About Me
-  url: aboutme.html
+  url: about.html
 
 - title: Blog Posts
   url: blog.html

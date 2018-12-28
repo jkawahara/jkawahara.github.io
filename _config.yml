@@ -1,7 +1,7 @@
 # Setup
 name:         KawShon
 tagline:      A responsive theme for your project on GitHub Pages
-baseurl:      "/kawshonblog"
+baseurl:      "/kawshon"
 locale:       "en"
 
 # Gems
