@@ -615,8 +615,8 @@ td {
 }
 
 form {
-  padding: 20px;
-  background: #f2f2f2;
+  padding: 0 0 20px 0;
+  background: #fff;
 
 }
 
@@ -739,7 +739,7 @@ blockquote {
 ul {
   list-style-position: inside;
   list-style: disc;
-  padding-left: 20px;
+  padding-left: 0px;
 }
 
 ol {
@@ -818,6 +818,45 @@ dl dd {
   height: auto;
   margin-top: 10px;
   margin-right: 25px;
+}
+
+#contact-form ul {
+  margin-bottom: 20px;
+  background: #fff;
+}
+
+#contact-form li {
+  margin-bottom: 10px;
+}
+
+label,
+input[type=text],
+input[type=email],
+textarea {
+  display: block;
+  width: 100%;
+}
+
+input[type=text],
+input[type=email],
+textarea {
+  height: 35px;
+  padding: 0 10px;
+  font-size: 14px;
+  border: 1px solid #ddd;
+}
+
+textarea {
+  height: 200px;
+}
+
+input[type=submit] {
+  padding: 10px 30px;
+  font-size: 18px;
+  color: #fff;
+  cursor: pointer;
+  background: #4aaaa5;
+  border: 0 none;
 }
 
 /* #Media Queries
