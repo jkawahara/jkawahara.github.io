@@ -4,49 +4,49 @@ projects:
 - title: Eat-Da-Burger
   url: https://serene-dawn-91369.herokuapp.com/
   img: assets/images/burger.png
-  tech: Front-end + Back-end + Handlebars + MVC 
+  tech: F-E + B-E + Handlebars + MVC 
 
 - title: FriendFinder
   url: https://fierce-falls-39849.herokuapp.com/
   img: assets/images/friendfinder.png
-  tech: Front-end + Back-end + Express + Routes
+  tech: F-E + B-E + Express + Routes + Heroku
 
 - title: Bamazon CL
   url: https://github.com/jkawahara/bamazon-cl
   img: assets/images/bamazon-cl.png
-  tech: Back-end + MySQL
+  tech: B-E + MySQL
 
 - title: Word Guess Game CL
   url: https://github.com/jkawahara/word-guess-game-cl
   img: assets/images/word-guess-game-cl.png
-  tech: Back-end + Modules
+  tech: B-E + Modules
 
 - title: LIRI Bot
   url: https://github.com/jkawahara/liri-node-app
   img: assets/images/liri-bot.png
-  tech: Back-end (Node) + axios + API
+  tech: Back-end "B-E" (Node) + axios + API
 
 - title: Train Scheduler
   url: https://jkawahara.github.io/firebase/
   img: assets/images/trainscheduler.png
-  tech: Front-end + Moment + Firebase
+  tech: F-E + Moment + Firebase
 
 - title: gifTastic
   url: https://jkawahara.github.io/gifTastic/
   img: assets/images/giftastic.png
-  tech: Front-end + AJAX
+  tech: F-E + AJAX
 
 - title: Trivia Game
   url: https://jkawahara.github.io/TriviaGame/
   img: assets/images/triviagame.jpg
-  tech: Front-end + Timers
+  tech: F-E + Timers
 
 - title: RPG Game
   url: https://jkawahara.github.io/unit-4-game/
   img: assets/images/rpg.jpg
-  tech: Front-end + jQuery
+  tech: F-E + jQuery + GitHub Pgs
 
 - title: Word Guess
   url: https://jkawahara.github.io/Word-Guess-Game/
   img: assets/images/bootcamp.jpg
-  tech: Front-end (HTML/CSS/JS) + Events
+  tech: Front-end "F-E" (HTML/CSS/JS) + Events
