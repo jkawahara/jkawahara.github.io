@@ -4,39 +4,49 @@ projects:
 - title: Eat-Da-Burger
   url: https://serene-dawn-91369.herokuapp.com/
   img: assets/images/burger.png
+  tech: Front-end + Back-end + Handlebars + MVC 
 
 - title: FriendFinder
   url: https://fierce-falls-39849.herokuapp.com/
   img: assets/images/friendfinder.png
+  tech: Front-end + Back-end + Express + Routes
 
 - title: Bamazon CL
   url: https://github.com/jkawahara/bamazon-cl
   img: assets/images/bamazon-cl.png
+  tech: Back-end + MySQL
 
 - title: Word Guess Game CL
   url: https://github.com/jkawahara/word-guess-game-cl
   img: assets/images/word-guess-game-cl.png
+  tech: Back-end + Modules
 
 - title: LIRI Bot
   url: https://github.com/jkawahara/liri-node-app
   img: assets/images/liri-bot.png
+  tech: Back-end (Node) + axios + API
 
 - title: Train Scheduler
   url: https://jkawahara.github.io/firebase/
   img: assets/images/trainscheduler.png
+  tech: Front-end + Moment + Firebase
 
 - title: gifTastic
   url: https://jkawahara.github.io/gifTastic/
   img: assets/images/giftastic.png
+  tech: Front-end + AJAX
 
 - title: Trivia Game
   url: https://jkawahara.github.io/TriviaGame/
   img: assets/images/triviagame.jpg
+  tech: Front-end + Timers
 
 - title: RPG Game
   url: https://jkawahara.github.io/unit-4-game/
   img: assets/images/rpg.jpg
+  tech: Front-end + jQuery
 
 - title: Word Guess
   url: https://jkawahara.github.io/Word-Guess-Game/
   img: assets/images/bootcamp.jpg
+  tech: Front-end (HTML/CSS/JS) + Events

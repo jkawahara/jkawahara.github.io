@@ -795,18 +795,21 @@ dl dd {
   opacity: 0.8;
 }
 
-.work h3 {
+.work div {
   position: absolute;
   bottom: 20px;
   width: 100%;
-  padding: 15px;
-  margin-bottom: 0;
   font-weight: 300;
   line-height: 30px;
   color: #ffffff;
   text-align: center;
-  background: #4aaaa5;
-  border-bottom: 0;
+  background: #d7c7cd;
+}
+
+.work div span {
+  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+  font-size: 14px;
+  color: #474747;
 }
 
 .auth-image {
