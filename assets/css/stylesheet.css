@@ -853,7 +853,7 @@ textarea {
 input[type=submit] {
   padding: 10px 30px;
   font-size: 18px;
-  color: #fff;
+  color: #666;
   cursor: pointer;
   background: #9ddcff;
   border: 0 none;

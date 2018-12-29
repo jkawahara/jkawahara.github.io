@@ -1,92 +1,94 @@
-# Architect theme
-
-This is a [Jekyll][1] theme that is an adaptation of [@jasonlong][2]'s [Architect theme][4] on [GitHub Pages][3].
-
-This is the raw HTML and styles that are used for the *Architect* theme on [GitHub Pages](https://pages.github.com/).
-
-![](https://cl.ly/image/1x0Q3213330G/content)
-
-# Getting Started
-
-## Prerequisites
-
-To install this theme, jekyll is required to be installed on your system. Head over to the [docs](https://jekyllrb.com/docs/installation/) and install the four requirements (Ruby, RubyGems, Node.js and Python 2.7). If you're on a Mac system, it's likely the only package you'll need to install is Node.js
-
-Once you've installed the requirements, run this command in your terminal:
-
-```
-$ sudo gem install jekyll
-```
-
-You'll also need to install the bundler package:
-
-```
-$ sudo gem install bundler
-```
-
-## Downloading and Installing the theme
-
-Download the theme
-
-```
-https://github.com/pietromenna/jekyll-architect-theme/archive/master.zip
-```
-
-Unzip it and use it as a regular jekyll folder.
-
-```
-$ unzip jekyll-architect-theme-master.zip
-```
-
-Get inside the newly extracted folder
-
-```
-$ cd jekyll-architect-theme-master
-```
-
-Install the dependencies
-
-```
-$ bundle install
-```
-
-Use it!
-
-```
-$ jekyll serve
-```
-
-# Setup
-
-Some important configuration can be done in the file `_config.yml`. Please, check the Setup section in that file.
-
-
-## baseurl
-
-`baseurl` parameter is required in the case the site doesn't sit on the root of the domain. For example: https://pietromenna.github.io/jekyll-architect-theme
-
-In the case above the baseurl should be set to "/jekyll-architect-theme".
-
-In the case the site sits in the root, you can leave `baseurl` as empty "".
-
-
-For more details read about [Jekyll][1] on its web page.
-
-# Contributing
-
-Bug reports and pull requests are welcome on GitHub at https://github.com/pietromenna/jekyll-architect-theme.
-
-# Development
-
-To set up your environment to develop this theme, run `bundle install`.
-
-You theme is setup just like a normal Jelyll site! To test your theme, run `bundle exec jekyll serve` and open your browser at `http://localhost:4000`. This starts a Jekyll server using your theme. Add pages, documents, data, etc. like normal to test your theme's contents. As you make modifications to your theme and to your content, your site will regenerate and you should see the changes in the browser after a refresh, just like normal.
-
-# License
-
-This work is licensed under a [Creative Commons Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0/).
-
-[1]: https://jekyllrb.com
-[2]: https://github.com/jasonlong
-[3]: http://pages.github.com/
-[4]: https://github.com/jasonlong/architect-theme
+# KawShon DEV's Guide to the Galaxy
+### 1. Why / Background
+  * This is Berkeley Coding Boot Camp (BCBC) portfolio project.
+    * The BCBC curriculum generally focuses on JavaScript along with HTML/CSS, using the MERN (MongoDB, Express, React, Node) software stack, to teach web development skills across the client and server. 
+  * KawShon DEV's Guide to the Galaxy is a static website for presenting a portfolio of projects and blogging posts.
+ ### 2. What / Objectives / User Stories
+  * This project development, from design through deployment of the application, used Jekyll as a static site generator using Markdown, Liquid, Front Matter, HTML, CSS on the client-side along with the Architect theme:
+  * User Stories, by categorization:
+    * Set up web application framework
+    * Set up View templates
+      * About Me
+      * Blog Posts
+      * Portfolio
+      * Contact Me
+ ### 3. How / Design Description
+  * The scope of the project fits ell into [Agile methodology with Scrum and Kanban frameworks](https://en.wikipedia.org/wiki/Agile_software_development). Due to limited scope and non-group assignment, GitHub's built-in tools were not used to support project execution:
+    * Projects: Kanban board for documenting user stories and overall progress
+    * Issues: Issue tracking for user stories, features and bug report
+  * Functionality:
+    * Design Description
+      * Install The Architect theme as starting basis for pages
+      * View Setup (*.html, _layouts, _includes, _posts)
+        * For each page (*.html), use Front Matter to predefine variables (layout, title, heading) and inherit specific layout
+          * _layouts: index, about, blog, contact.html inherit from page, post.html, which in turn, inherit from default.html
+          * _includes: links, navigation.html included in default.html 
+          * _data: navigation, portfolio.yml custom data is accessed by navigation, index.html  
+        * For each page (*.html), use Liquid to process templates:
+          * {{ variable }} to output content
+          * {% logic %} to perform logic statements
+        * For contact.html, use action attribute within form element to connect to Formspree email contact forms
+  * Prerequisites for Development:
+    * MacBook Air (Intel Core i7, 2.2 GHz, 1 Processor, 2 Cores, 8GB)
+    * 64 bit operating system 
+    * git version 2.18.0
+    * Visual Studio Code Version 1.29.1
+    * [GitHub kawshon](https://github.com/jkawahara/kawshon)
+    * Chrome Version 70.0.3538.110 (Official Build) (64-bit)
+  * Built with:
+    * Client-side [Jekyll](https://jekyllrb.com/):
+      * [Markdown](https://daringfireball.net/projects/markdown/)
+      * [Liquid](https://shopify.github.io/liquid/)
+      * [Front Matter](https://jekyllrb.com/docs/front-matter/)
+      * HTML, CSS
+      * [The Architech theme](https://github.com/pages-themes/architect)
+    * Cloud:
+      * [GitHub Pages](https://pages.github.com/)
+      * [Formspree](https://formspree.io/)
+  * Installing:
+    * For further development or use of this application, clone or download application files from GitHub, which is organized into the following directory structure:
+      * /kawshon (application root directory level)
+        * /_data
+          * navigation.yml
+          * portfolio.yml
+        * /_drafts (YEAR-MONTH-DAY-title.MARKUP)
+        * /_includes
+          * links.html
+          * navigation.html
+        * /_layouts
+          * default.html
+          * page.html
+          * post.html
+        * /_posts (YEAR-MONTH-DAY-title.MARKUP)
+        * /_site (generated site)
+        * /_assets
+          * /css
+            * print.css
+            * pygment_trac.css
+            * stylesheet.css
+          * /images
+          * /js
+        * _config.yml
+        * .gitignore
+        * aboutme.html
+        * blog.html
+        * contact.html
+        * Gemfile
+        * Gemfile.lock
+        * index.html
+        * LICENSE
+        * jekyll-architect-theme.gempspec
+        * README.md
+  * Running the tests:
+    * Unit testing & integration testing was informally executed
+  * Deployment:
+    * Deployed on [GitHub Pages](https://jkawahara.github.io/kawshon/)
+ ## Versioning
+  * For the versions available, see the tags on this repository.
+ ## Authors
+  * John Kawahara.
+  * N/A- See also the list of contributors who participated in this project.
+ ## License
+  * This project is licensed under the [MIT License](LICENSE).
+ ## Acknowledgments
+  * Thanks to BCBC program personnel, especially our instructor, David Hallinan, along with our TAs Hannah Bowers and Glo Austin, for their guidance and support.
