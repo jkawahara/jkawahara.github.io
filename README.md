@@ -23,7 +23,7 @@
         * For each page (*.html), use Front Matter to predefine variables (layout, title, heading) and inherit specific layout
           * _layouts: index, about, blog, contact.html inherit from page, post.html, which in turn, inherit from default.html
           * _includes: links, navigation.html included in default.html 
-          * _data: navigation, portfolio.yml custom data is accessed by navigation, index.html  
+          * _data: navigation, portfolio, sidebar.yml custom data is accessed by links, navigation, index.html  
         * For each page (*.html), use Liquid to process templates:
           * {{ variable }} to output content
           * {% logic %} to perform logic statements
@@ -51,6 +51,7 @@
         * /_data
           * navigation.yml
           * portfolio.yml
+          * sidebar.yml
         * /_drafts (YEAR-MONTH-DAY-title.MARKUP)
         * /_includes
           * links.html

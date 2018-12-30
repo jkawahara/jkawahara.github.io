@@ -1,0 +1,42 @@
+links_title: Sidebar Data
+links:
+
+- title: GitHub
+  url: https://github.com/jkawahara
+  img: /assets/images/github.png
+  type: Connection
+
+- title: LinkedIn
+  url: https://www.linkedin.com/in/johnkawahara/
+  img: /assets/images/linkedin.jpeg
+  type: Connection
+
+- title: Stack Overflow
+  url: https://stackoverflow.com/users/7570912/john-kawahara?tab=profile
+  img: /assets/images/stackoverflow.png
+  type: Connection
+
+- title: Software Engineering Daily
+  url: https://softwareengineeringdaily.com/category/all-episodes/exclusive-content/Podcast/
+  img: https://i2.wp.com/softwareengineeringdaily.com/wp-content/uploads/2018/05/sed-logo.png?zoom=1.100000023841858&fit=67%2C67&ssl=1
+  type: Podcast
+
+- title: Code Newbie
+  url: https://www.codenewbie.org/
+  img: https://s3.amazonaws.com/codenewbie-assets/codenewbie+hashtag+logo.png
+  type: Podcast
+
+- title: JavaScript Jabber
+  url: https://devchat.tv/js-jabber/
+  img: https://devchat.tv/wp-content/uploads/2016/04/javascript_jabber_thumb.jpg
+  type: Podcast
+
+- title: freeCodeCamp
+  url: https://www.freecodecamp.org/forum/
+  img: /assets/images/freecodecamp.png
+  type: Media
+
+- title: Reddit
+  url: https://www.reddit.com/r/javascript/
+  img: /assets/images/subreddit.png
+  type: Media
