@@ -1,10 +1,15 @@
 projects_title: Portfolio Data
 projects:
 
+- title: Sequel to Eat-Da-Burger
+  url: https://afternoon-wildwood-36880.herokuapp.com/
+  img: assets/images/burger.png
+  tech: F-E + B-E + Sequelize
+
 - title: Eat-Da-Burger
   url: https://serene-dawn-91369.herokuapp.com/
   img: assets/images/burger.png
-  tech: F-E + B-E + Handlebars + MVC 
+  tech: F-E + B-E + Handlebars + MVC + ORM 
 
 - title: FriendFinder
   url: https://fierce-falls-39849.herokuapp.com/
