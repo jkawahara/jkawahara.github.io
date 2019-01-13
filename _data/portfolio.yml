@@ -1,6 +1,11 @@
 projects_title: Portfolio Data
 projects:
 
+- title: Pawstagram Social Media Web App
+  url: https://pawstagram.herokuapp.com/
+  img: assets/images/pawstagram.png
+  tech: F-E + B-E + Passport + Material Bootstrap
+
 - title: Sequel to Eat-Da-Burger
   url: https://afternoon-wildwood-36880.herokuapp.com/
   img: assets/images/burger.png
