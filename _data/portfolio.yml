@@ -6,6 +6,11 @@ projects:
   img: assets/images/pawstagram.png
   tech: F-E + B-E + Passport + Material Bootstrap
 
+- title: News Scraper App
+  url: https://bcbc-news-scraper.herokuapp.com/
+  img: assets/images/newsscraper.png
+  tech: F-E + B-E + Mongoose + Cheerio
+
 - title: Sequel to Eat-Da-Burger
   url: https://afternoon-wildwood-36880.herokuapp.com/
   img: assets/images/burger.png
