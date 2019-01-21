@@ -21,6 +21,11 @@ links:
   img: https://i2.wp.com/softwareengineeringdaily.com/wp-content/uploads/2018/05/sed-logo.png?zoom=1.100000023841858&fit=67%2C67&ssl=1
   type: Podcast
 
+- title: Screaming in the Cloud
+  url: https://www.screaminginthecloud.com/
+  img:        https://static1.squarespace.com/static/5aa8481aaa49a1758e33bf86/t/5ab23b6203ce64be4f06f245/1521630059771/1.png?format=500w
+  type: Podcast
+
 - title: Code Newbie
   url: https://www.codenewbie.org/
   img: https://s3.amazonaws.com/codenewbie-assets/codenewbie+hashtag+logo.png
