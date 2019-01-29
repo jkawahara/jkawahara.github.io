@@ -4,7 +4,7 @@ projects:
 - title: Google Books Search
   url: https://bcbc-nyt-gbooks-search.herokuapp.com/
   img: assets/images/gbooks.png
-  tech: MERN Stack (MongoDB, Express, React, Node)
+  tech: MERN (MongoDB, Express, React, Node)
 
 - title: Simpsons Memory Clicky-Game
   url: https://jkawahara.github.io/clicky-game/
