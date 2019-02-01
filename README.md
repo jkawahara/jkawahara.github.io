@@ -1,4 +1,4 @@
-# KawShon DEV's Guide to the Galaxy
+# [KawShon DEV's Guide to the Galaxy](https://jkawahara.github.io/kawshon/)
 ### 1. Why / Background
   * This is Berkeley Coding Boot Camp (BCBC) portfolio project.
     * The BCBC curriculum generally focuses on JavaScript along with HTML/CSS, using the MERN (MongoDB, Express, React, Node) software stack, to teach web development skills across the client and server. 
