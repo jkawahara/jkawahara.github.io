@@ -1,7 +1,5 @@
-# KawShon DEV's Guide to the Galaxy
+# [KawShon DEV's Guide to the Galaxy](https://jkawahara.github.io/kawshon/)
 ### 1. Why / Background
-  * This is Berkeley Coding Boot Camp (BCBC) portfolio project.
-    * The BCBC curriculum generally focuses on JavaScript along with HTML/CSS, using the MERN (MongoDB, Express, React, Node) software stack, to teach web development skills across the client and server. 
   * KawShon DEV's Guide to the Galaxy is a static website for presenting a portfolio of projects and blogging posts.
  ### 2. What / Objectives / User Stories
   * This project development, from design through deployment of the application, used Jekyll as a static site generator using Markdown, Liquid, Front Matter, HTML, CSS on the client-side along with the Architect theme:
@@ -92,4 +90,4 @@
  ## License
   * This project is licensed under the [MIT License](LICENSE).
  ## Acknowledgments
-  * Thanks to BCBC program personnel, especially our instructor, David Hallinan, along with our TAs Hannah Bowers and Glo Austin, for their guidance and support.
+  * Thanks to David Hallinan, Hannah Bowers and Glo Austin for their guidance and support.
