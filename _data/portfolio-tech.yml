@@ -2,24 +2,28 @@ projects_title: Portfolio Data Roadmap
 projects:
 
 - title: Data Integrity Commitments
+  url: https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/687246/MHRA_GxP_data_integrity_guide_March_edited_Final.pdf
   img: assets/images/dataintegrity.png
   description: Global quality compliance initiative, to implement a living process to proactively remediate segregation of duties, access controls & data life cycle gaps of GMP computerized systems.
   role: Responsible for site remediation plan, including communication, intake process & system ownership.
   result: Enabled system owners to prepare for annual inspections, resulting in no associated FDA observations.
 
 - title: Automation Kaizen
+  url: https://en.wikipedia.org/wiki/Kaizen
   img: assets/images/kaizen.png
   description: Automation Kaizen was a CI initiative, to remove process waste from software development change management system, to achieve an inspirational target of 1 day compared to the typical 5+ weeks turnaround time.
   role: Responsible for advocating for engineers, supporting Kaizen co-leaders & managing knowledge with functional management/site leadership.
   result: Developed charter, mapped value streams with types of waste (overburden, inconsistency, wasteful activity) & enabled engineers to standardize process by executing Plan-Do-Check-Act cycles (Kaizen Blitz).
 
 - title: Team Zero Mission
+  url: https://en.wikipedia.org/wiki/PDCA
   img: assets/images/teamzero.png
   description: Quality compliance initiative, driven by health authority commitments, enabled as a Tiger Team, to expeditiously uncover sustainable solutions in achieving Zero defects.
   role: Responsible for standardization & CI of the automation DCS & associated business processes.
   result: Managed Quality Management System (QMS) health metrics (discrepancies, corrective actions) to clear backlog of late records & reduce total records from 800+ to less than 100.
 
 - title: Cell Culture Plant Program - Automation Distributed Control System (DCS)
+  url: https://en.wikipedia.org/wiki/Distributed_control_system
   img: assets/images/autonetwork.png
   description: Portfolio of technology transfers (Rituxan, Actemra) & facility upgrade projects to increase manufacturing capabilities requiring stabilization & optimization of the automation DCS.
   role: Responsible for leading project team of up to 50 engineers through development and operations startup.

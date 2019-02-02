@@ -4,18 +4,26 @@ title: KawShon Portfolio
 heading: Tech Roadmap Portfolio
 ---
 
-<section class="main-section mb-4">
-    {% for item in site.data.portfolio-tech.projects %}
-      <div class="work mb-4">
+<div class="scroll-header">
+  <div class="progress-container">
+    <div class="progress-bar" id="indicatorBar" style="width: 1%"></div>
+  </div>  
+</div>  
+
+<section onscroll="scrollIndicator()" class="main-section mb-4" style="display: inline-block;overflow: auto;height: 540px">
+  {% for item in site.data.portfolio-tech.projects %}
+    <div class="work mb-4">
+      <a href="{{ item.url }}">
         <u><em>{{ item.title }}</em></u>
-        <img src="{{ item.img }}" alt="{{ item.title }}">
-        <div>
-          -{{ item.description }}
-          <br>
-          -{{ item.role }}
-          <br>
-          -{{ item.result }}
-        </div>
+      </a>
+      <img src="{{ item.img }}" alt="{{ item.title }}">
+      <div>
+        -{{ item.description }}
+        <br>
+        -{{ item.role }}
+        <br>
+        -{{ item.result }}
       </div>
-    {% endfor %}
-  </section>
+    </div>
+  {% endfor %}
+</section>

@@ -4,7 +4,13 @@ title: KawShon Portfolio
 heading: Software Apps Portfolio
 ---
 
-<section class="main-section mb-4">
+<div class="scroll-header">
+  <div class="progress-container">
+    <div class="progress-bar" id="indicatorBar" style="width: 1%"></div>
+  </div>  
+</div>
+
+<section onscroll="scrollIndicator()" class="main-section mb-4" style="display: inline-block;overflow: auto;height: 540px">
   {% for item in site.data.portfolio-software.projects %}
     <div class="work mb-4">
       <a href="{{ item.urldeployed }}">

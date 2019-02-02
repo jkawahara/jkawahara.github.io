@@ -2,8 +2,11 @@ projects_title: Portfolio Data Software
 projects:
 
 # - title: Fulltack Social Web App
-#   url: 
+#   urldeployed: 
+#   urlrepo: 
 #   img: assets/images/
+#   description: 
+#   role: 
 #   tech: Node, Express, MySQL, Firebase, Passport, Sequelize, Handlebars, HTML, CSS, Material Bootstrap
 
 - title: Pawstagram Social Media Web App

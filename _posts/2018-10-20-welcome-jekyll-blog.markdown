@@ -24,7 +24,7 @@ bundle exec jekyll serve
 
 Finally the reward of deploying to my GitHub Page:) This was done by setting up Git gracking of the local directory along with setting up a remote GitHub repo as "username.github.io" then leveraging default configuration for "master branch" as source:
 
-![github_pages_config.png]({{ site.baseurl }}/assets/images/github_pages_config.png)
+![github_pages_config.png](/assets/images/github_pages_config.png)
 
 [jekyll-themes]: https://jekyllthemes.io/free
 [jekyll-architect]:    https://jekyllthemes.io/theme/architect-theme
