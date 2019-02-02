@@ -798,23 +798,15 @@ dl dd {
 
 .work div {
   position: absolute;
-  bottom: 0px;
+  bottom: 10px;
   width: 100%;
-  font-weight: 300;
-  line-height: 30px;
-  color: #ffffff;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #474747;
   text-align: center;
   background: #d7c7cd;
   transition: .5s ease;
   opacity: 0;
-}
-
-.work div {
-  font-family: 'Helvetica Neue', Helvetica, Arial, serif;
-  font-size: 15px;
-  font-weight: 400;
-  line-height: 1.5;
-  color: #474747;
 }
 
 .work:hover img {
@@ -826,7 +818,6 @@ dl dd {
 }
 
 .scroll-header {
-  /* position: fixed; */
   top: 100px;
   z-index: 1;
   width: 820px;
