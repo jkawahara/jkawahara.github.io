@@ -12,7 +12,7 @@ projects:
   url: https://en.wikipedia.org/wiki/Kaizen
   img: assets/images/kaizen.png
   description: Automation Kaizen was a CI initiative, to remove process waste from change management system, to achieve an inspirational target of 1 day from average 5+ weeks cycle time.
-  role: Responsible for advocating for engineers, supporting Kaizen co-leaders & managing knowledge with management/leadership.
+  role: Responsible for advocating for engineers, supporting Kaizen co-leaders & knowledge management.
   result: Developed charter supported value stream mapping showing waste (overburden, inconsistency, wasteful activity) & enabled engineers to execute Plan-Do-Check-Act standardization cycles.
 
 - title: Team Zero Mission
