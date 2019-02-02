@@ -825,7 +825,7 @@ dl dd {
 } */
 
 .progress-container {
-  width: 100%;
+  width: 820px;
   height: 8px;
   background: #ccc;
 }
@@ -897,6 +897,10 @@ input[type=submit] {
     margin: 0px 30px 35px 5px;
     overflow: auto;
   }
+
+  .progress-container {
+    width: 682px;
+  }
 }
 
 @media only screen and (max-width: 991px) {
@@ -912,7 +916,9 @@ input[type=submit] {
     overflow: auto;
   }
 
-
+  .progress-container {
+    width: 415px;
+  }
 }
 
 /* Tablet Portrait size to standard 960 (devices and browsers) */
@@ -1012,6 +1018,10 @@ input[type=submit] {
     padding-right: 0;
     margin-left: 0;
     content: none;
+  }
+
+  .progress-container {
+    width: 413px;
   }
 }
 
