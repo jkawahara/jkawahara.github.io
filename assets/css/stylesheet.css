@@ -780,14 +780,14 @@ dl dd {
 .work {
   position: relative;
   float: left;
-  width: 345px;
+  width: 725px;
   margin: 0px 30px 35px 5px;
   overflow: auto;
 }
 
-.work:nth-child(even) {
+/* .software:nth-child(even) {
   margin-right: 0px;
-}
+} */
 
 .work img {
   width: 100%;
@@ -797,19 +797,29 @@ dl dd {
 
 .work div {
   position: absolute;
-  bottom: 20px;
+  bottom: 0px;
   width: 100%;
   font-weight: 300;
   line-height: 30px;
   color: #ffffff;
   text-align: center;
   background: #d7c7cd;
+  transition: .5s ease;
+  opacity: 0;
 }
 
-.work div span {
+.work div {
   font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
-  font-size: 14px;
+  font-size: 16px;
   color: #474747;
+}
+
+.work:hover img {
+  opacity: 0.3;
+}
+
+.work:hover div {
+  opacity: 1;
 }
 
 .auth-image {
@@ -869,7 +879,7 @@ input[type=submit] {
   .work {
     position: relative;
     float: left;
-    width: 290px;
+    width: 615px;
     margin: 0px 30px 35px 5px;
     overflow: auto;
   }

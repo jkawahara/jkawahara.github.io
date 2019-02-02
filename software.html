@@ -1,0 +1,27 @@
+---
+layout: page
+title: KawShon Portfolio
+heading: Software Apps Portfolio
+---
+
+<section class="main-section mb-4">
+  {% for item in site.data.portfolio-software.projects %}
+    <div class="work mb-4">
+      <a href="{{ item.urldeployed }}">
+        <em>{{ item.title }}</em>
+      </a>
+      <br>
+      <a href="{{ item.urlrepo }}">
+        <em>GitHub Repo</em>
+      </a>
+      <a href="{{ item.urldeployed }}">
+        <img src="{{ item.img }}" alt="{{ item.title }}">
+        <div>
+          {{ item.role }}
+          <br>
+          {{ item.tech }}
+          </div>
+      </a>
+    </div>
+  {% endfor %}
+</section>

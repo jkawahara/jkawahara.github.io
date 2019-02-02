@@ -2,13 +2,16 @@ pages_title: Pages Data
 pages:
 
 - title: About Me
-  url: about.html
+  url: index.html
 
 - title: Blog Posts
   url: blog.html
 
-- title: Portfolio
-  url: index.html
+- title: Software Apps Portfolio
+  url: software.html
+
+- title: Tech Roadmap Portfolio
+  url: technology.html
 
 - title: Contact
   url: contact.html

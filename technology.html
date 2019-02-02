@@ -1,0 +1,18 @@
+---
+layout: page
+title: KawShon Portfolio
+heading: Tech Roadmap Portfolio
+---
+
+<section class="main-section mb-4">
+    {% for item in site.data.portfolio-tech.projects %}
+      <div class="work mb-4">
+        <em>{{ item.title }}</em>
+        <img src="{{ item.img }}" alt="{{ item.title }}">
+        <div>
+          {{ item.role }}
+          {{ item.tech }}
+        </div>
+      </div>
+    {% endfor %}
+  </section>
