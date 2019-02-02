@@ -7,15 +7,21 @@ projects:
   role: Responsible for site remediation plan, including communication, intake process & system ownership.
   result: Enabled system owners to prepare for annual inspections, resulting in no associated FDA observations.
 
+- title: Automation Kaizen
+  img: assets/images/kaizen.png
+  description: Automation Kaizen was a CI initiative, to remove process waste from software development change management system, to achieve an inspirational target of 1 day compared to the typical 5+ weeks turnaround time.
+  role: Responsible for advocating for engineers, supporting Kaizen co-leaders & managing knowledge with functional management/site leadership.
+  result: Developed charter, mapped value streams with types of waste (overburden, inconsistency, wasteful activity) & enabled engineers to standardize process by executing Plan-Do-Check-Act cycles (Kaizen Blitz).
+
 - title: Team Zero Mission
   img: assets/images/teamzero.png
   description: Quality compliance initiative, driven by health authority commitments, enabled as a Tiger Team, to expeditiously uncover sustainable solutions in achieving Zero defects.
   role: Responsible for standardization & CI of the automation DCS & associated business processes.
   result: Managed Quality Management System (QMS) health metrics (discrepancies, corrective actions) to clear backlog of late records & reduce total records from 800+ to less than 100.
 
-- title: Cell Culture Plant Program
-  img: assets/images/ccpprogram.png
+- title: Cell Culture Plant Program - Automation Distributed Control System (DCS)
+  img: assets/images/autonetwork.png
   description: Portfolio of technology transfers (Rituxan, Actemra) & facility upgrade projects to increase manufacturing capabilities requiring stabilization & optimization of the automation DCS.
-  role: Responsible for leading engineering team (infrastructure, software) & 24x7 field support team.
-  tech: Recovered from delays in infrastructure installation in time for software delivery & managed corporate/site relationships by extending field support coverage post operations startup.
+  role: Responsible for leading project team of up to 50 engineers through development and operations startup.
+  result: Recovered from delays in infrastructure installation in time for software delivery & managed corporate/site relationships by extending 24x7 field support coverage post operations startup.
 

@@ -2,7 +2,7 @@
   <p><em>jkawahara Connection links:</em></p>
     {% for item in site.data.sidebar.links %}
       {% if item.type == "Connection" %}
-        <a href="{{ item.url }}"><img src="{{ site.baseurl }}{{ item.img }}" class="social" alt="{{ item.title }}" width="50"></a>
+        <a href="{{ item.url }}"><img src="{{ item.img }}" class="social" alt="{{ item.title }}" width="50"></a>
       {% endif %}
     {% endfor %}
   <br><br>
@@ -18,7 +18,7 @@
   <p><em>Media Links:</em></p>
     {% for item in site.data.sidebar.links %}
       {% if item.type == "Media" %}
-        <a href="{{ item.url }}"><img src="{{ site.baseurl}}{{ item.img }}" class="social" alt="{{ item.title }}" width="50"></a>
+        <a href="{{ item.url }}"><img src="{{ item.img }}" class="social" alt="{{ item.title }}" width="50"></a>
       {% endif %}
     {% endfor %}
   <br><br>

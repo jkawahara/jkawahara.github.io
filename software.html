@@ -8,19 +8,19 @@ heading: Software Apps Portfolio
   {% for item in site.data.portfolio-software.projects %}
     <div class="work mb-4">
       <a href="{{ item.urldeployed }}">
-        <em>Deployed {{ item.title }}</em>
+        <u><em>Deployed {{ item.title }}</em></u>
       </a>
       <a class="float-right" href="{{ item.urlrepo }}">
-        <em>GitHub Repo</em>
+        <u><em>GitHub Repo</em></u>
       </a>
       <a href="{{ item.urldeployed }}">
         <img src="{{ item.img }}" alt="{{ item.title }}">
         <div>
-          {{ item.description }}
+          -{{ item.description }}
           <br>
-          {{ item.role }}
+          -{{ item.role }}
           <br>
-          {{ item.tech }}
+          -{{ item.tech }}
           </div>
       </a>
     </div>

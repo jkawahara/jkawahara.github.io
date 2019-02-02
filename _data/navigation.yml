@@ -4,14 +4,14 @@ pages:
 - title: About Me
   url: index.html
 
-- title: Blog Posts
-  url: blog.html
-
 - title: Software Apps Portfolio
   url: software.html
 
 - title: Tech Roadmap Portfolio
   url: technology.html
+
+- title: Blog Posts
+  url: blog.html
 
 - title: Contact
   url: contact.html
