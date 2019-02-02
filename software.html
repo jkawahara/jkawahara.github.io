@@ -8,10 +8,9 @@ heading: Software Apps Portfolio
   {% for item in site.data.portfolio-software.projects %}
     <div class="work mb-4">
       <a href="{{ item.urldeployed }}">
-        <em>{{ item.title }}</em>
+        <em>Deployed {{ item.title }}</em>
       </a>
-      <br>
-      <a href="{{ item.urlrepo }}">
+      <a class="float-right" href="{{ item.urlrepo }}">
         <em>GitHub Repo</em>
       </a>
       <a href="{{ item.urldeployed }}">
