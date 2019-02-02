@@ -10,15 +10,17 @@ projects:
   urldeployed: https://pawstagram.herokuapp.com/
   urlrepo: https://github.com/jkawahara/Pawstagram
   img: assets/images/pawstagram.png
-  role: Social media web based application enabling users to show off photos of their pets with comments, join communities to chat & meet up. As part of project team, responsible for overall MVC design pattern, controller routing, documentation & deployment.
-  tech: Node, Express, MySQL, Firebase, Passport, Sequelize, Handlebars, HTML, CSS, Material Bootstrap
+  description: Social media web based application enabling users to show off photos of their pets with comments, join communities to chat & meet up.
+  role: As part of project team, responsible for overall MVC design pattern, controller routing, documentation & deployment.
+  tech: Node, Express, MySQL, Firebase, Passport, Sequelize, Handlebars, HTML, CSS, Material Bootstrap.
 
 - title: Google Books Search
   urldeployed: https://bcbc-nyt-gbooks-search.herokuapp.com/
   urlrepo: https://github.com/jkawahara/nyt-gbooks-search
   img: assets/images/gbooks.png
-  role: A web based application enabling users to search Google Books, view and save for later viewing. Solo project, responsible for design, development, documentation and deployment.
-  tech: Node, Express, React, MongoDB, Mongoose, HTML, CSS, Bootstrap
+  description: A web based application enabling users to search Google Books, view and save for later viewing.
+  role: Solo project, responsible for design, development, documentation and deployment.
+  tech: Node, Express, React, MongoDB, Mongoose, HTML, CSS, Bootstrap.
 
 # - title: Simpsons Memory Clicky-Game
 #   url: https://jkawahara.github.io/clicky-game/
@@ -29,8 +31,9 @@ projects:
   urldeployed: https://bcbc-news-scraper.herokuapp.com/
   urlrepo: https://github.com/jkawahara/news-scraper
   img: assets/images/newsscraper.png
-  role: A web app that enable users to view and leave comments on the latest astronomy news. Solo project, responsible for design, development, documentation and deployment.
-  tech: Node, Express, MongoDB, Mongoose, Cheerio, Handlebars, HTML, CSS, Bootstrap
+  description: A web app that enable users to view and leave comments on the latest astronomy news.
+  role: Solo project, responsible for design, development, documentation and deployment.
+  tech: Node, Express, MongoDB, Mongoose, Cheerio, Handlebars, HTML, CSS, Bootstrap.
 
 # - title: Sequel to Eat-Da-Burger
 #   url: https://afternoon-wildwood-36880.herokuapp.com/

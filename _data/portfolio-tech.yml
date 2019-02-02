@@ -3,16 +3,19 @@ projects:
 
 - title: Data Integrity Commitments
   img: assets/images/dataintegrity.png
+  description: Global quality compliance initiative, to implement a living process to proactively remediate segregation of duties, access controls & data life cycle gaps of GMP computerized systems.
   role: Responsible for site remediation plan, including communication, intake process & system ownership.
-  tech: Global quality compliance initiative, to implement a living process to proactively remediate segregation of duties, access controls & data life cycle gaps of GMP computerized systems. Enabled system owners to prepare for annual inspections, resulting in no associated FDA observations.
+  result: Enabled system owners to prepare for annual inspections, resulting in no associated FDA observations.
 
 - title: Team Zero Mission
   img: assets/images/teamzero.png
+  description: Quality compliance initiative, driven by health authority commitments, enabled as a Tiger Team, to expeditiously uncover sustainable solutions in achieving Zero defects.
   role: Responsible for standardization & CI of the automation DCS & associated business processes.
-  tech: Quality compliance initiative, driven by health authority commitments, enabled as a Tiger Team, to expeditiously uncover sustainable solutions in achieving Zero defects. Managed Quality Management System (QMS) health metrics (discrepancies, corrective actions) to clear backlog of late records & reduce total records from 800+ to less than 100.
+  result: Managed Quality Management System (QMS) health metrics (discrepancies, corrective actions) to clear backlog of late records & reduce total records from 800+ to less than 100.
 
 - title: Cell Culture Plant Program
   img: assets/images/ccpprogram.png
+  description: Portfolio of technology transfers (Rituxan, Actemra) & facility upgrade projects to increase manufacturing capabilities requiring stabilization & optimization of the automation DCS.
   role: Responsible for leading engineering team (infrastructure, software) & 24x7 field support team.
-  tech: Portfolio of technology transfers (Rituxan, Actemra) & facility upgrade projects to increase manufacturing capabilities requiring stabilization & optimization of the automation DCS. Recovered from delays in infrastructure installation in time for software delivery & managed corporate/site relationships by extending field support coverage post operations startup.
+  tech: Recovered from delays in infrastructure installation in time for software delivery & managed corporate/site relationships by extending field support coverage post operations startup.
 
