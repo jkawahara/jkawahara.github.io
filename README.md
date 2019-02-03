@@ -19,13 +19,18 @@
       * Install The Architect theme as starting basis for pages
       * View Setup (*.html, _layouts, _includes, _posts)
         * For each page (*.html), use Front Matter to predefine variables (layout, title, heading) and inherit specific layout
-          * _layouts: index, about, blog, contact.html inherit from page, post.html, which in turn, inherit from default.html
+          * _layouts: index, software, technology, blog, contact.html inherit from page, post.html, which in turn, inherit from default.html
           * _includes: links, navigation.html included in default.html 
-          * _data: navigation, portfolio, sidebar.yml custom data is accessed by links, navigation, index.html  
+          * _data: navigation, portfolio-software, portfolio-tech, sidebar.yml custom data is accessed by links, navigation, index.html
         * For each page (*.html), use Liquid to process templates:
           * {{ variable }} to output content
           * {% logic %} to perform logic statements
         * For contact.html, use action attribute within form element to connect to Formspree email contact forms
+        * About Me ![aboutme.png](/assets/images/aboutme.png "aboutme")
+        * Software Apps ![software.png](/assets/images/software.png "softwareapps")
+        * Tech Roadmap ![tech.png](/assets/images/tech.png "techroadmap")
+        * Blog Posts ![blogs.png](/assets/images/blogs.png "blogposts")
+        * Contact ![contactme.png](/assets/images/contactme.png "contact")
   * Prerequisites for Development:
     * MacBook Air (Intel Core i7, 2.2 GHz, 1 Processor, 2 Cores, 8GB)
     * 64 bit operating system 
