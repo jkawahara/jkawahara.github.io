@@ -13,7 +13,7 @@ projects:
   img: assets/images/kaizen.png
   description: Automation Kaizen was a CI initiative, to remove process waste from change management system, to achieve an inspirational target of 1 day from average 5+ weeks cycle time.
   role: Responsible for advocating for engineers, supporting Kaizen co-leaders & knowledge management.
-  result: Developed charter supported value stream mapping showing waste (overburden, inconsistency, wasteful activity) & enabled engineers to execute Plan-Do-Check-Act standardization cycles.
+  result: Developed charter, supported value stream mapping showing waste & enabled engineers to execute Plan-Do-Check-Act standardization cycles.
 
 - title: Team Zero Mission
   url: https://en.wikipedia.org/wiki/PDCA
@@ -25,7 +25,7 @@ projects:
 - title: Cell Culture Plant Program - Automation Distributed Control System (DCS)
   url: https://en.wikipedia.org/wiki/Distributed_control_system
   img: assets/images/autonetwork.png
-  description: Portfolio of technology transfers (Rituxan, Actemra) & facility upgrade projects to increase manufacturing capabilities requiring stabilization & optimization of the automation DCS.
-  role: Responsible for leading project team of up to 50 engineers through development and operations startup.
-  result: Recovered from delays in infrastructure installation in time for software delivery & managed corporate/site relationships by extending 24x7 field support coverage post operations startup.
+  description: Portfolio of technology transfers & facility upgrade projects to increase manufacturing capabilities requiring stabilization & optimization of the automation DCS.
+  role: Responsible for leading project team of up to 50 engineers through development & operations startup.
+  result: Recovered from delays in infrastructure installation in time for software delivery & managed corporate/site relationships by extending field support coverage beyond operations startup.
 
