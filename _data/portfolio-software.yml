@@ -29,7 +29,7 @@ projects:
   urldeployed: https://bcbc-nyt-gbooks-search.herokuapp.com/
   urlrepo: https://github.com/jkawahara/nyt-gbooks-search
   img: assets/images/gbooks.png
-  description: A web based application enabling users to search Google Books, view and save for later viewing.
+  description: A web based app enabling users to search Google Books, view and save for later viewing.
   role: Solo project, responsible for design, development, documentation and deployment.
   tech: Node, Express, React, MongoDB, Mongoose, HTML, CSS, Bootstrap.
 
