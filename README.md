@@ -1,4 +1,4 @@
-# [KawShon DEV's Guide to the Galaxy](https://jkawahara.github.io/kawshon/)
+# Live Link to [KawShon DEV's Guide to the Galaxy](https://jkawahara.github.io/kawshon/)
 ### 1. Why / Background
   * KawShon DEV's Guide to the Galaxy is a static website for presenting a portfolio of projects and blogging posts.
  ### 2. What / Objectives / User Stories
