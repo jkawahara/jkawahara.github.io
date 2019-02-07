@@ -1,7 +1,7 @@
 projects_title: Portfolio Data Software
 projects:
 
-- title: Fulltack Newtorking Web App
+- title: Fullstack Newtorking Web App
   urldeployed: https://bcbc-fullstack.herokuapp.com/
   urlrepo: https://github.com/jkawahara/Fullstack
   img: assets/images/fullstack.png
