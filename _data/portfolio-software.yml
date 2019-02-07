@@ -1,13 +1,13 @@
 projects_title: Portfolio Data Software
 projects:
 
-# - title: Fulltack Social Web App
-#   urldeployed: 
-#   urlrepo: 
-#   img: assets/images/
-#   description: 
-#   role: 
-#   tech: Node, Express, MySQL, Firebase, Passport, Sequelize, Handlebars, HTML, CSS, Material Bootstrap
+- title: Fulltack Newtorking Web App
+  urldeployed: https://bcbc-fullstack.herokuapp.com/
+  urlrepo: https://github.com/jkawahara/Fullstack
+  img: assets/images/fullstack.png
+  description: Fullstack is a coding boot camp web based application enabling users to organize their curriculum & increase networking engagement
+  role: As part of project team, responsible for overall MVC design pattern, controller routing, documentation & deployment.
+  tech: Node, Express, MySQL, Passport, Sequelize, Chart, React, HTML, CSS, Material Bootstrap
 
 - title: Pawstagram Social Media Web App
   urldeployed: https://pawstagram.herokuapp.com/
