@@ -14,14 +14,16 @@ heading: Tech Roadmap Portfolio
       <a href="{{ item.url }}">
         <u><em>{{ item.title }}</em></u>
       </a>
-      <img src="{{ item.img }}" alt="{{ item.title }}">
-      <div>
-        -{{ item.description }}
-        <br>
-        -{{ item.role }}
-        <br>
-        -{{ item.result }}
-      </div>
+      <a href="{{ item.url }}">
+        <img src="{{ item.img }}" alt="{{ item.title }}">
+        <div>
+          -{{ item.description }}
+          <br>
+          -{{ item.role }}
+          <br>
+          -{{ item.result }}
+        </div>
+      </a>
     </div>
   {% endfor %}
 </section>
