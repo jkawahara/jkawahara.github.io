@@ -26,7 +26,7 @@ projects:
   url: https://en.wikipedia.org/wiki/PDCA
   img: assets/images/teamzero.png
   description: Team Zero Mission was a quality compliance initiative, driven by health authority commitments, enabled as a Tiger Team, to expeditiously uncover sustainable solutions in achieving Zero defects.
-  role: Responsible for standardization & CI of the automation DCS & associated business processes.
+  role: Responsible for standardization & CI of the automation distributed control system (DCS) & associated business processes.
   result: Managed Quality System health metrics to clear backlog & reduce total records from 800+ to less than 100.
 
 
