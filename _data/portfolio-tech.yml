@@ -11,7 +11,7 @@ projects:
 - title: Automation Kaizen
   url: https://en.wikipedia.org/wiki/Kaizen
   img: assets/images/kaizen.png
-  description: Automation Kaizen was a continuous improvement (CI) initiative, to innovatively remove process waste from the change management system, to achieve an inspirational target of 1 day from the expected 5+ weeks cycle time.
+  description: Automation Kaizen was a continuous improvement initiative, to innovatively remove process waste from the change management system, to achieve an inspirational target of 1 day from the expected 5+ weeks cycle time.
   role: Responsible for advocating for engineers, supporting Kaizen co-leaders & knowledge management.
   result: Enabled chartering, value stream mapping showing waste & execution of standardization cycles by engineers.
 
@@ -26,7 +26,7 @@ projects:
   url: https://en.wikipedia.org/wiki/PDCA
   img: assets/images/teamzero.png
   description: Team Zero Mission was a quality compliance initiative, driven by health authority commitments, enabled as a Tiger Team, to expeditiously uncover sustainable solutions in achieving Zero defects.
-  role: Responsible for standardization & CI of the automation distributed control system (DCS) & associated business processes.
+  role: Responsible for standardization & continuous improvement of the automation distributed control system (DCS) & associated business processes.
   result: Managed Quality System health metrics to clear backlog & reduce total records from 800+ to less than 100.
 
 
