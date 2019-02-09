@@ -5,9 +5,9 @@ projects:
   urldeployed: https://bcbc-fullstack.herokuapp.com/
   urlrepo: https://github.com/jkawahara/Fullstack
   img: assets/images/fullstack.png
-  description: Fullstack is a coding boot camp web based application enabling users to organize their curriculum & increase networking engagement
+  description: Coding boot camp web based application enabling users to organize their curriculum & increase networking engagement
   role: As part of project team, responsible for overall MVC design pattern, controller routing, documentation & deployment.
-  tech: Node, Express, MySQL, Passport, Sequelize, Chart, React, HTML, CSS, Material Bootstrap
+  tech: Node, Express, MySQL, Passport, Sequelize, Chart, React, HTML, CSS, Material Design Bootstrap
 
 - title: Pawstagram Social Media Web App
   urldeployed: https://pawstagram.herokuapp.com/
@@ -15,7 +15,7 @@ projects:
   img: assets/images/pawstagram.png
   description: Social media web based application enabling users to show off photos of their pets with comments, join communities to chat & meet up.
   role: As part of project team, responsible for overall MVC design pattern, controller routing, documentation & deployment.
-  tech: Node, Express, MySQL, Firebase, Passport, Sequelize, Handlebars, HTML, CSS, Material Bootstrap.
+  tech: Node, Express, MySQL, Firebase, Passport, Sequelize, Handlebars, HTML, CSS, Material Design Bootstrap.
 
 - title: News Scraper
   urldeployed: https://bcbc-news-scraper.herokuapp.com/
@@ -32,6 +32,14 @@ projects:
   description: A web based app enabling users to search Google Books, view and save for later viewing.
   role: Solo project, responsible for design, development, documentation and deployment.
   tech: Node, Express, React, MongoDB, Mongoose, HTML, CSS, Bootstrap.
+
+- title: Train Scheduler
+  urldeployed: https://jkawahara.github.io/train-scheduler/
+  urlrepo: https://github.com/jkawahara/train-scheduler
+  img: assets/images/trainscheduler.png
+  description: Train scheduling web based application enabling users to view and manage schedules.
+  role: Solo project, responsible for design, development, documentation and deployment.
+  tech: Firebase, Moment, HTML, CSS, JavaScript, Bootstrap
 
 # - title: Simpsons Memory Clicky-Game
 #   url: https://jkawahara.github.io/clicky-game/
@@ -67,11 +75,6 @@ projects:
 #   url: https://github.com/jkawahara/liri-node-app
 #   img: assets/images/liri-bot.png
 #   tech: Back-end "B-E" (Node) + axios + API
-
-# - title: Train Scheduler
-#   url: https://jkawahara.github.io/firebase/
-#   img: assets/images/trainscheduler.png
-#   tech: F-E + Moment + Firebase
 
 # - title: gifTastic
 #   url: https://jkawahara.github.io/gifTastic/
