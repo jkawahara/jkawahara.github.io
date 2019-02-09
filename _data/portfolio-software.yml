@@ -17,14 +17,6 @@ projects:
   role: As part of project team, responsible for overall MVC design pattern, controller routing, documentation & deployment.
   tech: Node, Express, MySQL, Firebase, Passport, Sequelize, Handlebars, HTML, CSS, Material Design Bootstrap.
 
-- title: News Scraper
-  urldeployed: https://bcbc-news-scraper.herokuapp.com/
-  urlrepo: https://github.com/jkawahara/news-scraper
-  img: assets/images/newsscraper.png
-  description: A web app that enable users to view and leave comments on the latest astronomy news.
-  role: Solo project, responsible for design, development, documentation and deployment.
-  tech: Node, Express, MongoDB, Mongoose, Cheerio, Handlebars, HTML, CSS, Bootstrap.
-  
 - title: Google Books Search
   urldeployed: https://bcbc-nyt-gbooks-search.herokuapp.com/
   urlrepo: https://github.com/jkawahara/nyt-gbooks-search
@@ -32,6 +24,14 @@ projects:
   description: A web based app enabling users to search Google Books, view and save for later viewing.
   role: Solo project, responsible for design, development, documentation and deployment.
   tech: Node, Express, React, MongoDB, Mongoose, HTML, CSS, Bootstrap.
+
+- title: News Scraper
+  urldeployed: https://bcbc-news-scraper.herokuapp.com/
+  urlrepo: https://github.com/jkawahara/news-scraper
+  img: assets/images/newsscraper.png
+  description: A web app that enable users to view and leave comments on the latest astronomy news.
+  role: Solo project, responsible for design, development, documentation and deployment.
+  tech: Node, Express, MongoDB, Mongoose, Cheerio, Handlebars, HTML, CSS, Bootstrap.
 
 - title: Train Scheduler
   urldeployed: https://jkawahara.github.io/train-scheduler/
