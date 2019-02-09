@@ -10,7 +10,7 @@ projects:
   tech: Node, Express, MySQL, Passport, Sequelize, Chart, React, HTML, CSS, Material Design Bootstrap
 
 - title: Pawstagram Social Media Web App
-  urldeployed: https://pawstagram.herokuapp.com/
+  urldeployed: https://bcbc-pawstagram.herokuapp.com/
   urlrepo: https://github.com/jkawahara/Pawstagram
   img: assets/images/pawstagram.png
   description: Social media web based application enabling users to show off photos of their pets with comments, join communities to chat & meet up.
@@ -18,7 +18,7 @@ projects:
   tech: Node, Express, MySQL, Firebase, Passport, Sequelize, Handlebars, HTML, CSS, Material Design Bootstrap.
 
 - title: Google Books Search
-  urldeployed: https://bcbc-nyt-gbooks-search.herokuapp.com/
+  urldeployed: https://bcbc-gbooks-search.herokuapp.com/
   urlrepo: https://github.com/jkawahara/nyt-gbooks-search
   img: assets/images/gbooks.png
   description: A web based app enabling users to search Google Books, view and save for later viewing.
