@@ -5,9 +5,9 @@ projects:
   urldeployed: https://bcbc-fullstack.herokuapp.com/
   urlrepo: https://github.com/jkawahara/Fullstack
   img: assets/images/fullstack.png
-  description: Coding boot camp web based application enabling users to organize their curriculum & increase networking engagement
+  description: Coding boot camp web based application enabling users to organize their curriculum & increase networking engagement.
   role: As part of project team, responsible for overall MVC design pattern, controller routing, documentation & deployment.
-  tech: Node, Express, MySQL, Passport, Sequelize, Chart, React, HTML, CSS, Material Design Bootstrap
+  tech: Node, Express, MySQL, Passport, Sequelize, Chart, React, HTML, CSS, Material Design Bootstrap.
 
 - title: Pawstagram Social Media Web App
   urldeployed: https://bcbc-pawstagram.herokuapp.com/
@@ -39,7 +39,7 @@ projects:
   img: assets/images/trainscheduler.png
   description: Train scheduling web based application enabling users to view and manage schedules.
   role: Solo project, responsible for design, development, documentation and deployment.
-  tech: Firebase, Moment, HTML, CSS, JavaScript, Bootstrap
+  tech: Firebase, Moment, HTML, CSS, JavaScript, Bootstrap.
 
 # - title: Simpsons Memory Clicky-Game
 #   url: https://jkawahara.github.io/clicky-game/
