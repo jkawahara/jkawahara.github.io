@@ -1,10 +1,24 @@
 projects_title: Portfolio Data Roadmap
 projects:
 
+- title: Team Zero Mission
+  url: https://en.wikipedia.org/wiki/PDCA
+  img: assets/images/teamzero.png
+  description: Team Zero Mission was a quality compliance initiative, driven by health authority commitments, enabled as a Tiger Team, to expeditiously uncover sustainable solutions in achieving Zero defects.
+  role: Responsible for standardization & continuous improvement (CI) of the automation distributed control system (DCS) & associated business processes.
+  result: Managed Quality System health metrics to clear backlog & reduce total records from 800+ to less than 100.
+
+- title: Data Integrity Commitments
+  url: https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/687246/MHRA_GxP_data_integrity_guide_March_edited_Final.pdf
+  img: assets/images/dataintegrity.png
+  description: Data Integrity Commitments was a global quality compliance strategy & initiative, to implement a living process to proactively remediate segregation of duties, access controls & data life cycle gaps of GMP computerized systems.
+  role: Responsible for site remediation plan, including communication planning, intake process & system ownership.
+  result: Enabled system owners to prepare for annual inspections, resulting in no associated FDA observations.
+
 - title: Cell Culture Plant Program - Automation Distributed Control System (DCS)
   url: https://en.wikipedia.org/wiki/Distributed_control_system
   img: assets/images/autonetwork.png
-  description: Cell Culture Plant Program was a portfolio to execute technology roadmap projects to increase capabilities, reduce technical debt & optimize the automation distributed control system (DCS) per the technology transfer vision.
+  description: Cell Culture Plant Program was a portfolio to execute technology roadmap projects to increase capabilities, reduce technical debt & optimize the automation DCS per the technology transfer vision.
   role: Responsible for leading project team of up to 50 engineers through development & operations startup.
   result: Recovered from delays in hardware installation & software development by managing corporate/site relationships.
 
@@ -14,19 +28,4 @@ projects:
   description: Automation Kaizen was a continuous improvement initiative, to innovatively remove process waste from the change management system, to achieve an inspirational target of 1 day from the expected 5+ weeks cycle time.
   role: Responsible for advocating for engineers, supporting Kaizen co-leaders & knowledge management.
   result: Enabled chartering, value stream mapping showing waste & execution of standardization cycles by engineers.
-
-- title: Data Integrity Commitments
-  url: https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/687246/MHRA_GxP_data_integrity_guide_March_edited_Final.pdf
-  img: assets/images/dataintegrity.png
-  description: Data Integrity Commitments was a global quality compliance strategy & initiative, to implement a living process to proactively remediate segregation of duties, access controls & data life cycle gaps of GMP computerized systems.
-  role: Responsible for site remediation plan, including communication planning, intake process & system ownership.
-  result: Enabled system owners to prepare for annual inspections, resulting in no associated FDA observations.
-
-- title: Team Zero Mission
-  url: https://en.wikipedia.org/wiki/PDCA
-  img: assets/images/teamzero.png
-  description: Team Zero Mission was a quality compliance initiative, driven by health authority commitments, enabled as a Tiger Team, to expeditiously uncover sustainable solutions in achieving Zero defects.
-  role: Responsible for standardization & continuous improvement of the automation distributed control system (DCS) & associated business processes.
-  result: Managed Quality System health metrics to clear backlog & reduce total records from 800+ to less than 100.
-
 
