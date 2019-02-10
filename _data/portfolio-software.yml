@@ -30,7 +30,7 @@ projects:
   urlrepo: https://github.com/jkawahara/news-scraper
   img: assets/images/newsscraper.png
   description: News Web-based application that enable users to view and leave comments on the latest astronomy news.
-  role: Solo project, responsible for design, development, documentation and deployment.
+  role: Responsible for design, development, documentation and deployment.
   tech: Node, Express, MongoDB, Mongoose, Cheerio, Handlebars, HTML, CSS, Bootstrap.
 
 - title: Train Scheduler
