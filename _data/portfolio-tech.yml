@@ -15,11 +15,11 @@ projects:
   role: Responsible for site remediation plan, including communication planning, intake process & system ownership.
   result: Enabled system owners to prepare for annual inspections, resulting in no associated FDA observations.
 
-- title: Configuration Management - Automation Distributed Control System (DCS)
+- title: Software Configuration Management - Automation Distributed Control System (DCS)
   url: https://en.wikipedia.org/wiki/Software_configuration_management
   img: assets/images/configmgmt.png
   description: Configuration Management was an automation DCS project that included delivery of offline systems (Engineering, Development, Validation) to enable multiproduct capability for the cell culture plant.
-  role: Responsible for project initiation and clearing obstacles for development + operations team during project execution.
+  role: Responsible for project initiation & clearing obstacles for development + operations team.
   result: Implemented without impacting production schedule & enabled successive product technology transfers.
 
 - title: Cell Culture Plant Program - Automation Distributed Control System (DCS)
