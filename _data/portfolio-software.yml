@@ -5,7 +5,7 @@ projects:
   urldeployed: https://bcbc-fullstack.herokuapp.com/
   urlrepo: https://github.com/jkawahara/Fullstack
   img: assets/images/fullstack.png
-  description: Coding boot camp web-based application enabling users to organize their curriculum & increase networking engagement.
+  description: Fullstack coding boot camp web app enables user to organize curriculum & increase networking engagement.
   role: Responsible for overall MVC design pattern, controller routing, documentation & deployment.
   tech: Node, Express, MySQL, Passport, Sequelize, Chart, React, HTML, CSS, Material Design Bootstrap.
 
@@ -13,7 +13,7 @@ projects:
   urldeployed: https://bcbc-pawstagram.herokuapp.com/
   urlrepo: https://github.com/jkawahara/Pawstagram
   img: assets/images/pawstagram.png
-  description: Social media web-based application enabling users to show off photos of their pets with comments, join communities to chat & meet up.
+  description: Pawstagram social media web app enables user to show off photos of pets, join communities to chat & meet up.
   role: Responsible for overall MVC design pattern, controller routing, documentation & deployment.
   tech: Node, Express, MySQL, Firebase, Passport, Sequelize, Handlebars, HTML, CSS, Material Design Bootstrap.
 
@@ -21,7 +21,7 @@ projects:
   urldeployed: https://bcbc-gbooks-search.herokuapp.com/
   urlrepo: https://github.com/jkawahara/nyt-gbooks-search
   img: assets/images/gbooks.png
-  description: Search web-based application enabling users to search Google Books, view and save for later viewing.
+  description: Google Books Search web app enables user to search Google Books, view and save for later viewing.
   role: Responsible for design, development, documentation and deployment.
   tech: Node, Express, React, MongoDB, Mongoose, HTML, CSS, Bootstrap.
 
@@ -29,7 +29,7 @@ projects:
   urldeployed: https://bcbc-news-scraper.herokuapp.com/
   urlrepo: https://github.com/jkawahara/news-scraper
   img: assets/images/newsscraper.png
-  description: News web-based application that enable users to view and leave comments on the latest astronomy news.
+  description: News Scraper web app enables user to view and leave comments on the latest astronomy news.
   role: Responsible for design, development, documentation and deployment.
   tech: Node, Express, MongoDB, Mongoose, Cheerio, Handlebars, HTML, CSS, Bootstrap.
 
@@ -37,7 +37,7 @@ projects:
   urldeployed: https://jkawahara.github.io/train-scheduler/
   urlrepo: https://github.com/jkawahara/train-scheduler
   img: assets/images/trainscheduler.png
-  description: Scheduling web-based application enabling users to view and manage train schedules.
+  description: Train Scheduler web app enables user to view and manage train schedules.
   role: Responsible for design, development, documentation and deployment.
   tech: Firebase, Moment, HTML, CSS, JavaScript, Bootstrap.
 
