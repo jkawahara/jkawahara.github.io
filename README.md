@@ -1,4 +1,4 @@
-# Live Link to [KawShon DEV's Guide to the Galaxy](https://jkawahara.github.io/kawshon/)
+# Live Link to [KawShon DEV's Guide to the Galaxy](https://jkawahara.github.io)
 ### 1. Why / Background
   * KawShon DEV's Guide to the Galaxy is a static website for presenting a portfolio of projects and blogging posts.
  ### 2. What / Objectives / User Stories
@@ -8,7 +8,8 @@
     * Set up View templates
       * About Me
       * Blog Posts
-      * Portfolio
+      * Software Apps Portfolio
+      * Product Roadmap Portfolio
       * Contact Me
  ### 3. How / Design Description
   * The scope of the project fits ell into [Agile methodology with Scrum and Kanban frameworks](https://en.wikipedia.org/wiki/Agile_software_development). Due to limited scope and non-group assignment, GitHub's built-in tools were not used to support project execution:
@@ -19,7 +20,7 @@
       * Install The Architect theme as starting basis for pages
       * View Setup (*.html, _layouts, _includes, _posts)
         * For each page (*.html), use Front Matter to predefine variables (layout, title, heading) and inherit specific layout
-          * _layouts: index, software, technology, blog, contact.html inherit from page, post.html, which in turn, inherit from default.html
+          * _layouts: index, software, product, blog, contact.html inherit from page, post.html, which in turn, inherit from default.html
           * _includes: links, navigation.html included in default.html 
           * _data: navigation, portfolio-software, portfolio-tech, sidebar.yml custom data is accessed by links, navigation, index.html
         * For each page (*.html), use Liquid to process templates:
@@ -28,15 +29,15 @@
         * For contact.html, use action attribute within form element to connect to Formspree email contact forms
         * About Me ![aboutme.png](/assets/images/aboutme.png "aboutme")
         * Software Apps ![software.png](/assets/images/software.png "softwareapps")
-        * Tech Roadmap ![tech.png](/assets/images/tech.png "techroadmap")
+        * Product Roadmap ![product.png](/assets/images/product.png "productroadmap")
         * Blog Posts ![blogs.png](/assets/images/blogs.png "blogposts")
-        * Contact ![contactme.png](/assets/images/contactme.png "contact")
+        * Contact Me ![contactme.png](/assets/images/contactme.png "contactme")
   * Prerequisites for Development:
     * MacBook Air (Intel Core i7, 2.2 GHz, 1 Processor, 2 Cores, 8GB)
     * 64 bit operating system 
     * git version 2.18.0
     * Visual Studio Code Version 1.29.1
-    * [GitHub kawshon](https://github.com/jkawahara/kawshon)
+    * [GitHub Repo](https://github.com/jkawahara/jkawahara.github.io)
     * Chrome Version 70.0.3538.110 (Official Build) (64-bit)
   * Built with:
     * Client-side [Jekyll](https://jekyllrb.com/):
@@ -86,7 +87,7 @@
   * Running the tests:
     * Unit testing & integration testing was informally executed
   * Deployment:
-    * Deployed on [GitHub Pages](https://jkawahara.github.io/kawshon/)
+    * Deployed on [GitHub Pages](https://jkawahara.github.io)
  ## Versioning
   * For the versions available, see the tags on this repository.
  ## Authors
