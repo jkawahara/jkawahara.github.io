@@ -1,4 +1,12 @@
 <aside id="sidebar">
+  <p><em>Concept links:</em></p>
+    {% for item in site.data.sidebar.links %}
+      {% if item.type == "Concept" %}
+        <a href="{{ item.url }}"><img src="{{ item.img }}" class="social" alt="{{ item.title }}" width="50"></a>
+      {% endif %}
+    {% endfor %}
+  <br><br>
+
   <p><em>jkawahara Connection links:</em></p>
     {% for item in site.data.sidebar.links %}
       {% if item.type == "Connection" %}

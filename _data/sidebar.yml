@@ -1,6 +1,16 @@
 links_title: Sidebar Data
 links:
 
+- title: Scrum
+  url: https://www.scrum.org/resources/what-is-scrum
+  img: /assets/images/scrum.png
+  type: Concept
+
+- title: Story Map
+  url: http://www.jpattonassociates.com/wp-content/uploads/2015/03/story_mapping.pdf
+  img: /assets/images/storymap.png
+  type: Concept
+
 - title: GitHub
   url: https://github.com/jkawahara
   img: /assets/images/github.png
@@ -23,7 +33,12 @@ links:
 
 - title: Screaming in the Cloud
   url: https://www.screaminginthecloud.com/
-  img:        https://static1.squarespace.com/static/5aa8481aaa49a1758e33bf86/t/5ab23b6203ce64be4f06f245/1521630059771/1.png?format=500w
+  img: https://static1.squarespace.com/static/5aa8481aaa49a1758e33bf86/t/5ab23b6203ce64be4f06f245/1521630059771/1.png?format=500w
+  type: Podcast
+
+- title: Software Engineering Radio
+  url: http://www.se-radio.net/
+  img: http://media.computer.org/sponsored/podcast/se-radio/se-radio-logo-1400x1475.jpg
   type: Podcast
 
 - title: Code Newbie
