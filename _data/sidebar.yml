@@ -1,6 +1,11 @@
 links_title: Sidebar Data
 links:
 
+- title: InfoSec
+  url: https://en.wikipedia.org/wiki/Information_security
+  img: /assets/images/infosec.png
+  type: Concept
+
 - title: Scrum
   url: https://www.scrum.org/resources/what-is-scrum
   img: /assets/images/scrum.png
@@ -41,15 +46,20 @@ links:
   img: http://media.computer.org/sponsored/podcast/se-radio/se-radio-logo-1400x1475.jpg
   type: Podcast
 
-- title: Code Newbie
-  url: https://www.codenewbie.org/
-  img: https://s3.amazonaws.com/codenewbie-assets/codenewbie+hashtag+logo.png
-  type: Podcast
+# - title: Code Newbie
+#   url: https://www.codenewbie.org/
+#   img: https://s3.amazonaws.com/codenewbie-assets/codenewbie+hashtag+logo.png
+#   type: Podcast
 
-- title: JavaScript Jabber
-  url: https://devchat.tv/js-jabber/
-  img: https://devchat.tv/wp-content/uploads/2016/04/javascript_jabber_thumb.jpg
-  type: Podcast
+# - title: JavaScript Jabber
+#   url: https://devchat.tv/js-jabber/
+#   img: https://devchat.tv/wp-content/uploads/2016/04/javascript_jabber_thumb.jpg
+#   type: Podcast
+
+- title: Machine Learning
+  url: https://medium.com/topic/machine-learning
+  img: /assets/images/medium.png
+  type: Media
 
 - title: freeCodeCamp
   url: https://www.freecodecamp.org/forum/
@@ -57,6 +67,6 @@ links:
   type: Media
 
 - title: Reddit
-  url: https://www.reddit.com/r/javascript/
+  url: https://www.reddit.com/r/learnprogramming
   img: /assets/images/subreddit.png
   type: Media
