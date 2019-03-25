@@ -1,6 +1,14 @@
 projects_title: Data Software Portfolio
 projects:
 
+- title: Chuscanos Wedding Communications
+  urldeployed: https://chuscanos.com/
+  urlrepo: https://github.com/jkawahara/chuscanos
+  img: assets/images/chuscanos.png
+  description: Chuscanos static web page presents wedding communications.
+  role: Responsible for design, development, operations and documentation.
+  tech: React, Firebase, Formspree, HTML, CSS, Bootstrap.
+
 - title: Fullstack Networking
   urldeployed: https://bcbc-fullstack.herokuapp.com/
   urlrepo: https://github.com/jkawahara/Fullstack
