@@ -7,7 +7,7 @@ projects:
   img: assets/images/chuscanos.png
   description: Chuscanos static web page presents wedding communications.
   role: Responsible for design, development, operations and documentation.
-  tech: React, Firebase, Formspree, HTML, CSS, Bootstrap.
+  tech: React, Firebase, Formspree, HTML, CSS, Bootstrap, GitHub Pages.
 
 - title: Fullstack Networking
   urldeployed: https://bcbc-fullstack.herokuapp.com/
@@ -15,7 +15,7 @@ projects:
   img: assets/images/fullstack.png
   description: Fullstack coding boot camp web app enables user to organize curriculum & increase networking engagement.
   role: Responsible for overall MVC design pattern, controller routing, documentation & deployment.
-  tech: Node, Express, MySQL, Passport, Sequelize, Chart, React, HTML, CSS, Material Design Bootstrap.
+  tech: Node, Express, MySQL, Passport, Sequelize, Chart, React, HTML, CSS, Material Design Bootstrap, Heroku.
 
 - title: Pawstagram Social Media
   urldeployed: https://bcbc-pawstagram.herokuapp.com/
@@ -23,7 +23,15 @@ projects:
   img: assets/images/pawstagram.png
   description: Pawstagram social media web app enables user to show off photos of pets, join communities to chat & meet up.
   role: Responsible for overall MVC design pattern, controller routing, documentation & deployment.
-  tech: Node, Express, MySQL, Firebase, Passport, Sequelize, Handlebars, HTML, CSS, Material Design Bootstrap.
+  tech: Node, Express, MySQL, Firebase, Passport, Sequelize, Handlebars, HTML, CSS, Material Design Bootstrap, Heroku.
+
+- title: KawShon DEV's Guide to the Galaxy
+  urldeployed: https://jkawahara.github.io/
+  urlrepo: https://github.com/jkawahara/jkawahara.github.io
+  img: assets/images/kawshon.png
+  description: KawShon DEV's Guide to the Galaxy static web page presents a portfolio of projects and blogging posts.
+  role: Responsible for design, development, operations and documentation.
+  tech: Jekyll, Markdown, Liquid, Front Matter, Formspree, HTML, CSS, Bootstrap, GitHub Pages.
 
 - title: Google Books Search
   urldeployed: https://bcbc-gbooks-search.herokuapp.com/
@@ -31,7 +39,7 @@ projects:
   img: assets/images/gbooks.png
   description: Google Books Search web app enables user to search Google Books, view and save for later viewing.
   role: Responsible for design, development, documentation and deployment.
-  tech: Node, Express, React, MongoDB, Mongoose, HTML, CSS, Bootstrap.
+  tech: Node, Express, React, MongoDB, Mongoose, HTML, CSS, Bootstrap, Heroku.
 
 - title: News Scraper
   urldeployed: https://bcbc-news-scraper.herokuapp.com/
@@ -39,7 +47,7 @@ projects:
   img: assets/images/newsscraper.png
   description: News Scraper web app enables user to view and leave comments on the latest astronomy news.
   role: Responsible for design, development, documentation and deployment.
-  tech: Node, Express, MongoDB, Mongoose, Cheerio, Handlebars, HTML, CSS, Bootstrap.
+  tech: Node, Express, MongoDB, Mongoose, Cheerio, Handlebars, HTML, CSS, Bootstrap, Heroku.
 
 - title: Train Scheduler
   urldeployed: https://jkawahara.github.io/train-scheduler/
@@ -47,59 +55,4 @@ projects:
   img: assets/images/trainscheduler.png
   description: Train Scheduler web app enables user to view and manage train schedules.
   role: Responsible for design, development, documentation and deployment.
-  tech: Firebase, Moment, HTML, CSS, JavaScript, Bootstrap.
-
-# - title: Simpsons Memory Clicky-Game
-#   url: https://jkawahara.github.io/clicky-game/
-#   img: assets/images/simpsons.png
-#   tech: F-E (React)
-
-# - title: Sequel to Eat-Da-Burger
-#   url: https://afternoon-wildwood-36880.herokuapp.com/
-#   img: assets/images/burger.png
-#   tech: F-E + B-E + Sequelize
-
-# - title: Eat-Da-Burger
-#   url: https://serene-dawn-91369.herokuapp.com/
-#   img: assets/images/burger.png
-#   tech: F-E + B-E + Handlebars + MVC + ORM 
-
-# - title: FriendFinder
-#   url: https://fierce-falls-39849.herokuapp.com/
-#   img: assets/images/friendfinder.png
-#   tech: F-E + B-E + Express + Routes + Heroku
-
-# - title: Bamazon CL
-#   url: https://github.com/jkawahara/bamazon-cl
-#   img: assets/images/bamazon-cl.png
-#   tech: B-E + MySQL
-
-# - title: Word Guess Game CL
-#   url: https://github.com/jkawahara/word-guess-game-cl
-#   img: assets/images/word-guess-game-cl.png
-#   tech: B-E + Modules
-
-# - title: LIRI Bot
-#   url: https://github.com/jkawahara/liri-node-app
-#   img: assets/images/liri-bot.png
-#   tech: Back-end "B-E" (Node) + axios + API
-
-# - title: gifTastic
-#   url: https://jkawahara.github.io/gifTastic/
-#   img: assets/images/giftastic.png
-#   tech: F-E + AJAX
-
-# - title: Trivia Game
-#   url: https://jkawahara.github.io/TriviaGame/
-#   img: assets/images/triviagame.jpg
-#   tech: F-E + Timers
-
-# - title: RPG Game
-#   url: https://jkawahara.github.io/unit-4-game/
-#   img: assets/images/rpg.jpg
-#   tech: F-E + jQuery + GitHub Pgs
-
-# - title: Word Guess
-#   url: https://jkawahara.github.io/Word-Guess-Game/
-#   img: assets/images/bootcamp.jpg
-#   tech: Front-end "F-E" (HTML/CSS/JS) + Events
+  tech: Firebase, Moment, HTML, CSS, JavaScript, Bootstrap, GitHub Pages.
