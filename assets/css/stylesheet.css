@@ -523,6 +523,15 @@ aside#sidebar p.repo-owner a {
   font-weight: bold;
 }
 
+/* .carousel-indicators {
+  bottom: -20px;
+  background-color: gray;
+} */
+
+/* .carousel-indicators .active {
+  background-color: blue;
+} */
+
 #downloads {
   margin-bottom: 40px;
 }
