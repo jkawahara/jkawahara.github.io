@@ -1,6 +1,11 @@
 links_title: Sidebar Data
 links:
 
+- title: XP
+  url: https://ronjeffries.com/xprog/what-is-extreme-programming
+  img: /assets/images/xp.png
+  type: Concept
+
 - title: Product Mgmt
   url: https://www.youtube.com/watch?v=sxGJha37iQA
   img: /assets/images/prodmgmt.png
