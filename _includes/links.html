@@ -7,9 +7,17 @@
     {% endfor %}
   <br><br>
 
-  <p><em>Media / Podcast Links:</em></p>
+  <p><em>Podcast Links:</em></p>
     {% for item in site.data.sidebar.links %}
-      {% if item.type == "Podcast" or item.type == "Media" %}
+      {% if item.type == "Podcast" %}
+        <a href="{{ item.url }}"><img src="{{ item.img }}" class="social" alt="{{ item.title }}" width="50"></a>
+      {% endif %}
+    {% endfor %}
+  <br><br>
+
+  <p><em>Media Links:</em></p>
+    {% for item in site.data.sidebar.links %}
+      {% if item.type == "Media" %}
         <a href="{{ item.url }}"><img src="{{ item.img }}" class="social" alt="{{ item.title }}" width="50"></a>
       {% endif %}
     {% endfor %}

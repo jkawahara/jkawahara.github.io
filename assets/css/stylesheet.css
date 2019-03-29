@@ -523,10 +523,9 @@ aside#sidebar p.repo-owner a {
   font-weight: bold;
 }
 
-/* .carousel-indicators {
-  bottom: -20px;
-  background-color: gray;
-} */
+#carousel {
+  max-width: 180px;
+}
 
 .carousel-indicators .active {
   background-color: #9ddcff;
@@ -1028,6 +1027,7 @@ input[type=submit] {
     float: none;
     width: 100% ! important;
   }
+
   aside#sidebar {
     min-height: 0;
     padding: 20px 0;
@@ -1035,9 +1035,11 @@ input[type=submit] {
     background-image: none;
     border-top: solid 1px #ddd;
   }
+
   aside#sidebar a.button {
     display: none;
   }
+  
   #main-content h1:before,
   #main-content h2:before,
   #main-content h3:before,
