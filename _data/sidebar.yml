@@ -41,9 +41,9 @@ links:
   img: /assets/images/stackoverflow.png
   type: Connection
 
-- title: Software Engineering Daily
-  url: https://softwareengineeringdaily.com/category/all-episodes/exclusive-content/Podcast/
-  img: https://i2.wp.com/softwareengineeringdaily.com/wp-content/uploads/2018/05/sed-logo.png?zoom=1.100000023841858&fit=67%2C67&ssl=1
+- title: threat post
+  url: https://threatpost.com/category/podcasts/
+  img: https://solebit.io/wp-content/uploads/2018/07/Threat-Post-Logo.png
   type: Podcast
 
 - title: Screaming in the Cloud
@@ -51,9 +51,14 @@ links:
   img: https://static1.squarespace.com/static/5aa8481aaa49a1758e33bf86/t/5ab23b6203ce64be4f06f245/1521630059771/1.png?format=500w
   type: Podcast
 
-- title: threat post
-  url: https://threatpost.com/category/podcasts/
-  img: https://solebit.io/wp-content/uploads/2018/07/Threat-Post-Logo.png
+- title: This is Product Management
+  url: https://www.thisisproductmanagement.com/
+  img: https://res.cloudinary.com/hrscywv4p/image/upload/c_limit,fl_lossy,h_1440,w_720,f_auto,q_auto/v1/67857/Screen_Shot_2017-12-11_at_10.45.28_PM_wy4e3h.png
+  type: Podcast
+
+- title: Software Engineering Daily
+  url: https://softwareengineeringdaily.com/category/all-episodes/exclusive-content/Podcast/
+  img: https://i2.wp.com/softwareengineeringdaily.com/wp-content/uploads/2018/05/sed-logo.png?zoom=1.100000023841858&fit=67%2C67&ssl=1
   type: Podcast
 
 - title: Machine Learning
