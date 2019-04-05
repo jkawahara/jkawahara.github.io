@@ -2,7 +2,7 @@
 layout: post
 title:  "JavaScript Closures"
 date:   2018-10-23
-categories: javascript
+categories: Coding
 ---
 
 Stepping through [The Complete JavaScript Course 2018: Build Real Projects!][js-course], found myself headed down the function rabbit hole, which had an extensive tunnel system. Couldn't figure out which turn so just closed my eyes and stumbled onto the [Closure][mdn-closures] tunnel.

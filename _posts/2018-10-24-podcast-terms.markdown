@@ -2,7 +2,7 @@
 layout: post
 title:  "Terminology via Podcasts"
 date:   2018-10-24
-categories: podcast
+categories: Media
 ---
 
 In search of knowledge, it's challenging to know what questions to ask without a terminology base. After a dozen weeks, my preferred source for terminology has become podcasts... 

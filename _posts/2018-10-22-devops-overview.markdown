@@ -2,7 +2,7 @@
 layout: post
 title:  "DevOps Foundations"
 date:   2018-10-22
-categories: devops
+categories: DevOps
 ---
 
 DevOps practitioners provide an overview in [DevOps Foundations][devops-foundations] course.

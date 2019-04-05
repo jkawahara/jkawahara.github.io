@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome to Jekyll Blog!"
 date:   2018-10-20
-categories: jekyll
+categories: Coding
 ---
 
 After some thought on blogging, and a very helpful suggestion by [androidgrl][androidgrl], decided to go with Jekyll for a simple, static website, served up on my GitHub Page.
