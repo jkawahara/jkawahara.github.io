@@ -10,8 +10,8 @@ pages:
 - title: Product Roadmap Portfolio
   url: product.html
 
-- title: Blog Posts
-  url: blog.html
+- title: Learning Posts
+  url: learning.html
 
 - title: Contact
   url: contact.html
