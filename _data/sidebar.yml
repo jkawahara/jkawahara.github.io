@@ -51,14 +51,14 @@ links:
   img: https://is2-ssl.mzstatic.com/image/thumb/Music71/v4/74/9e/7b/749e7b8b-0aec-8099-0a8f-ff65b6f32fa2/source/170x170bb.jpg
   type: Podcast
 
+- title: Data Stories
+  url: http://datastori.es/archive/
+  img: http://datastori.es/wp-content/cache/podlove/f1/aea5f20a523df5a96daae43b938a55/data-stories_400x400.png
+  type: Podcast
+
 - title: threat post
   url: https://threatpost.com/category/podcasts/
   img: https://solebit.io/wp-content/uploads/2018/07/Threat-Post-Logo.png
-  type: Podcast
-
-- title: Screaming in the Cloud
-  url: https://www.screaminginthecloud.com/
-  img: https://static1.squarespace.com/static/5aa8481aaa49a1758e33bf86/t/5ab23b6203ce64be4f06f245/1521630059771/1.png?format=500w
   type: Podcast
 
 - title: This is Product Management
@@ -69,6 +69,11 @@ links:
 - title: Software Engineering Daily
   url: https://softwareengineeringdaily.com/category/all-episodes/exclusive-content/Podcast/
   img: https://i2.wp.com/softwareengineeringdaily.com/wp-content/uploads/2018/05/sed-logo.png?zoom=1.100000023841858&fit=67%2C67&ssl=1
+  type: Podcast
+
+- title: Screaming in the Cloud
+  url: https://www.screaminginthecloud.com/
+  img: https://static1.squarespace.com/static/5aa8481aaa49a1758e33bf86/t/5ab23b6203ce64be4f06f245/1521630059771/1.png?format=500w
   type: Podcast
 
 - title: freeCodeCamp
