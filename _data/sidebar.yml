@@ -71,6 +71,36 @@ links:
   img: https://i2.wp.com/softwareengineeringdaily.com/wp-content/uploads/2018/05/sed-logo.png?zoom=1.100000023841858&fit=67%2C67&ssl=1
   type: Podcast
 
+- title: freeCodeCamp
+  url: https://learn.freecodecamp.org/
+  img: /assets/images/freecodecamp.png
+  type: Learning
+
+- title: Khan Academy
+  url: https://www.khanacademy.org/
+  img: https://pbs.twimg.com/profile_images/1021871312195612673/MlailSlw_400x400.jpg
+  type: Learning
+
+- title: Udacity
+  url: https://www.udacity.com/
+  img: https://static.intercomassets.com/avatars/765565/square_128/custom_avatar-1542173755.png?1542173755
+  type: Learning
+
+- title: edX
+  url: https://www.edx.org/
+  img: https://prod-edxapp.edx-cdn.org/static/edx.org/images/logo-footer.fde85fe42f6b.png
+  type: Learning
+
+- title: Coursera
+  url: https://www.coursera.org/
+  img: https://pbs.twimg.com/profile_images/579039906804023296/RWDlntRx_400x400.jpeg
+  type: Learning
+
+- title: Udemy
+  url: https://www.udemy.com/courses/search/?src=ukw&q=free+courses
+  img: https://media.licdn.com/dms/image/C510BAQFKXnLDglG5qA/company-logo_200_200/0?e=2159024400&v=beta&t=QKdDCJSmbaDE2mkA5ndgR407zzyfU4QEZQ0Hd769vBI
+  type: Learning
+
 - title: Machine Learning
   url: https://medium.com/topic/machine-learning
   img: /assets/images/medium.png
