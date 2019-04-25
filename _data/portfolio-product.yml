@@ -4,14 +4,14 @@ projects:
 - title: Team Zero Mission
   url: https://en.wikipedia.org/wiki/PDCA
   img: assets/images/teamzero.png
-  description: Team Zero Mission, a global quality compliance stabilization initiative driven by health authority commitments, enabled as a Tiger Team, expeditiously uncovered sustainable solutions in achieving Zero defects.
+  description: Team Zero Mission, a global data visualization stabilization initiative driven by health authority commitments, enabled as a Tiger Team, expeditiously uncovered sustainable solutions in achieving Zero defects.
   role: Responsible for standardization & CI of the Operational Technology system & overarching Quality System processes by transforming data into meaningful information.
   result: Managed Quality System health metrics to clear backlog & reduce total records from 800+ to less than 100.
 
 - title: Data Integrity Commitments
   url: https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/687246/MHRA_GxP_data_integrity_guide_March_edited_Final.pdf
   img: assets/images/dataintegrity.png
-  description: Data Integrity Commitments, a global quality compliance strategy & optimization initiative, implemented a living process to remediate segregation of duties, access controls & data life cycle gaps of GMP computerized systems.
+  description: Data Integrity Commitments, a global data governance optimization initiative, implemented a living process to remediate segregation of duties, access controls & data life cycle gaps of GMP computerized systems.
   role: Responsible for site remediation plan, including communication planning, intake process & system ownership.
   result: Enabled system owners to prepare for annual inspections, resulting in no associated FDA observations.
 
@@ -32,7 +32,7 @@ projects:
 - title: Automation Kaizen
   url: https://en.wikipedia.org/wiki/Kaizen
   img: assets/images/kaizen.png
-  description: Automation Kaizen, an optimization initiative, removed process waste from the change management system & innovatively evolved mindset to strive for an inspirational target of 1 day from the expected 5+ weeks cycle time.
+  description: Automation Kaizen, a change management optimization initiative, removed process waste & innovatively evolved mindset to strive for an inspirational target of 1 day from the expected 5+ weeks cycle time.
   role: Responsible for advocating for engineers, supporting Kaizen co-leaders & knowledge management.
   result: Enabled chartering, value stream mapping showing waste & execution of standardization cycles by engineers.
 
