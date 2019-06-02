@@ -1,6 +1,11 @@
 links_title: Sidebar Data
 links:
 
+- title: Lean PMO & Agile
+  url: https://itrevolution.com/pmo-dead-long-live-pmo/
+  img: /assets/images/leanpmo.png
+  type: Concept
+
 - title: MLconf
   url: https://mlconf.com/sessions/?event=mlconf-2018-sf&search=
   img: /assets/images/mlconf.png
