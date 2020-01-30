@@ -56,14 +56,29 @@ links:
   img: https://is2-ssl.mzstatic.com/image/thumb/Music71/v4/74/9e/7b/749e7b8b-0aec-8099-0a8f-ff65b6f32fa2/source/170x170bb.jpg
   type: Podcast
 
-- title: Data Stories
-  url: http://datastori.es/archive/
-  img: http://datastori.es/wp-content/cache/podlove/f1/aea5f20a523df5a96daae43b938a55/data-stories_400x400.png
+- title: Partially Derivative
+  url: http://partiallyderivative.com/
+  img: https://feeds.backtracks.fm/feeds/series/b8608df0-843c-11e7-86c7-0e84392478bc/images/main.png?1580367703894
+  type: Podcast
+
+- title: Data Skeptic
+  url: https://dataskeptic.com/
+  img: https://is2-ssl.mzstatic.com/image/thumb/Podcasts113/v4/71/4e/c1/714ec174-6f69-6f76-820e-456c616e4a4a/mza_16357434423530327553.jpg/313x0w.jpg
+  type: Podcast
+
+- title: Data Driven Security
+  url: https://datadrivensecurity.info/podcast/
+  img: http://datadrivensecurity.info/podcast/theme/images/ddspc.png
   type: Podcast
 
 - title: threat post
   url: https://threatpost.com/category/podcasts/
   img: https://solebit.io/wp-content/uploads/2018/07/Threat-Post-Logo.png
+  type: Podcast
+
+- title: Screaming in the Cloud
+  url: https://www.screaminginthecloud.com/
+  img: https://19x50e48lpyz2s9tzz3qjjsn-wpengine.netdna-ssl.com/wp-content/uploads/2019/09/sitc-icon.svg
   type: Podcast
 
 - title: This is Product Management
@@ -74,11 +89,6 @@ links:
 - title: Software Engineering Daily
   url: https://softwareengineeringdaily.com/category/all-episodes/exclusive-content/Podcast/
   img: https://i2.wp.com/softwareengineeringdaily.com/wp-content/uploads/2018/05/sed-logo.png?zoom=1.100000023841858&fit=67%2C67&ssl=1
-  type: Podcast
-
-- title: Screaming in the Cloud
-  url: https://www.screaminginthecloud.com/
-  img: https://19x50e48lpyz2s9tzz3qjjsn-wpengine.netdna-ssl.com/wp-content/uploads/2019/09/sitc-icon.svg
   type: Podcast
 
 - title: freeCodeCamp
