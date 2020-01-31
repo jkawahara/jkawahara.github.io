@@ -11,9 +11,9 @@ links:
   img: /assets/images/mlconf.png
   type: Concept
 
-- title: XP
-  url: https://ronjeffries.com/xprog/what-is-extreme-programming
-  img: /assets/images/xp.png
+- title: Insight Centers
+  url: https://aws.amazon.com/blogs/industries/aws-and-novartis-re-inventing-pharma-manufacturing/
+  img: /assets/images/insightcenters.png
   type: Concept
 
 - title: Product Mgmt
