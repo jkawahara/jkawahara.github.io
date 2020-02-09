@@ -42,6 +42,22 @@ links:
 #  img: /assets/images/storymap.png
 #  type: Concept
 
+# Prior concept links
+#- title: MLconf
+#  url: https://mlconf.com/sessions/?event=mlconf-2018-sf&search=
+#  img: /assets/images/mlconf.png
+#  type: Concept
+
+#- title: Product Mgmt
+#  url: https://www.youtube.com/watch?v=sxGJha37iQA
+#  img: /assets/images/prodmgmt.png
+#  type: Concept
+
+#- title: Story Map
+#  url: http://www.jpattonassociates.com/wp-content/uploads/2015/03/story_mapping.pdf
+#  img: /assets/images/storymap.png
+#  type: Concept
+
 - title: GitHub
   url: https://github.com/jkawahara
   img: /assets/images/github.png
