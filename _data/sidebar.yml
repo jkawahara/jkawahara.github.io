@@ -6,24 +6,14 @@ links:
   img: /assets/images/leanpmo.png
   type: Concept
 
-- title: MLconf
-  url: https://mlconf.com/sessions/?event=mlconf-2018-sf&search=
-  img: /assets/images/mlconf.png
-  type: Concept
-
 - title: Insight Centers
   url: https://aws.amazon.com/blogs/industries/aws-and-novartis-re-inventing-pharma-manufacturing/
   img: /assets/images/insightcenters.png
   type: Concept
 
-- title: Product Mgmt
-  url: https://www.youtube.com/watch?v=sxGJha37iQA
-  img: /assets/images/prodmgmt.png
-  type: Concept
-
-- title: Story Map
-  url: http://www.jpattonassociates.com/wp-content/uploads/2015/03/story_mapping.pdf
-  img: /assets/images/storymap.png
+- title: Big Data
+  url: https://www.i-scoop.eu/big-data-action-value-context/
+  img: https://40uu5c99f3a2ja7s7miveqgqu-wpengine.netdna-ssl.com/wp-content/uploads/2014/10/Big-data-1.jpg
   type: Concept
 
 - title: InfoSec
@@ -35,6 +25,22 @@ links:
   url: https://www.scrum.org/resources/what-is-scrum
   img: /assets/images/scrum.png
   type: Concept
+
+# Prior concept links
+#- title: MLconf
+#  url: https://mlconf.com/sessions/?event=mlconf-2018-sf&search=
+#  img: /assets/images/mlconf.png
+#  type: Concept
+
+#- title: Product Mgmt
+#  url: https://www.youtube.com/watch?v=sxGJha37iQA
+#  img: /assets/images/prodmgmt.png
+#  type: Concept
+
+#- title: Story Map
+#  url: http://www.jpattonassociates.com/wp-content/uploads/2015/03/story_mapping.pdf
+#  img: /assets/images/storymap.png
+#  type: Concept
 
 - title: GitHub
   url: https://github.com/jkawahara
