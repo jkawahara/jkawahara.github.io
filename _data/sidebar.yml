@@ -73,9 +73,9 @@ links:
   img: /assets/images/stackoverflow.png
   type: Connection
 
-- title: Data Show
-  url: https://www.oreilly.com/all/topics/oreilly-data-show-podcast
-  img: https://is2-ssl.mzstatic.com/image/thumb/Music71/v4/74/9e/7b/749e7b8b-0aec-8099-0a8f-ff65b6f32fa2/source/170x170bb.jpg
+- title: The Data Exchange
+  url: https://www.stitcher.com/podcast/the-data-exchange
+  img: https://secureimg.stitcher.com/feedimagesplain328/482640.jpg
   type: Podcast
 
 - title: Partially Derivative
@@ -112,6 +112,12 @@ links:
   url: https://softwareengineeringdaily.com/category/all-episodes/exclusive-content/Podcast/
   img: https://i2.wp.com/softwareengineeringdaily.com/wp-content/uploads/2018/05/sed-logo.png?zoom=1.100000023841858&fit=67%2C67&ssl=1
   type: Podcast
+
+# Prior podcast links
+#- title: Data Show
+#  url: https://www.oreilly.com/all/topics/oreilly-data-show-podcast
+#  img: https://is2-ssl.mzstatic.com/image/thumb/Music71/v4/74/9e/7b/749e7b8b-0aec-8099-0a8f-ff65b6f32fa2/source/170x170bb.jpg
+#  type: Podcast
 
 - title: freeCodeCamp
   url: https://learn.freecodecamp.org/
