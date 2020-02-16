@@ -6,9 +6,9 @@ links:
   img: /assets/images/insightcenters.png
   type: Concept
 
-- title: Big Data
-  url: https://www.i-scoop.eu/big-data-action-value-context/
-  img: https://40uu5c99f3a2ja7s7miveqgqu-wpengine.netdna-ssl.com/wp-content/uploads/2014/10/Big-data-1.jpg
+- title: Data Lakes
+  url: https://www.i-scoop.eu/big-data-action-value-context/data-lakes/
+  img: /assets/images/datalakes-how.png
   type: Concept
 
 # Prior concept links
