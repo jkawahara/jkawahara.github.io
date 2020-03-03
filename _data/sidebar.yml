@@ -88,11 +88,6 @@ links:
   img: https://is2-ssl.mzstatic.com/image/thumb/Podcasts113/v4/71/4e/c1/714ec174-6f69-6f76-820e-456c616e4a4a/mza_16357434423530327553.jpg/313x0w.jpg
   type: Podcast
 
-- title: Data Driven Security
-  url: https://datadrivensecurity.info/podcast/
-  img: http://datadrivensecurity.info/podcast/theme/images/ddspc.png
-  type: Podcast
-
 - title: threat post
   url: https://threatpost.com/category/podcasts/
   img: https://solebit.io/wp-content/uploads/2018/07/Threat-Post-Logo.png
@@ -117,6 +112,11 @@ links:
 #- title: Data Show
 #  url: https://www.oreilly.com/all/topics/oreilly-data-show-podcast
 #  img: https://is2-ssl.mzstatic.com/image/thumb/Music71/v4/74/9e/7b/749e7b8b-0aec-8099-0a8f-ff65b6f32fa2/source/170x170bb.jpg
+#  type: Podcast
+
+#- title: Data Driven Security
+#  url: https://datadrivensecurity.info/podcast/
+#  img: http://datadrivensecurity.info/podcast/theme/images/ddspc.png
 #  type: Podcast
 
 - title: freeCodeCamp
