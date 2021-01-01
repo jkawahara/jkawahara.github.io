@@ -73,19 +73,19 @@ links:
   img: /assets/images/stackoverflow.png
   type: Connection
 
-- title: The Data Exchange
-  url: https://www.stitcher.com/podcast/the-data-exchange
-  img: https://secureimg.stitcher.com/feedimagesplain328/482640.jpg
+- title: This is Product Management
+  url: https://www.thisisproductmanagement.com/
+  img: https://blog.feedbackloop.com/hubfs/raw_assets/public/Feedback_Loop_Sep2020/images/logo.svg
   type: Podcast
 
-- title: Partially Derivative
-  url: http://partiallyderivative.com/
-  img: https://feeds.backtracks.fm/feeds/series/b8608df0-843c-11e7-86c7-0e84392478bc/images/main.png?1580367703894
+- title: Voices of VR Podcast
+  url: https://voicesofvr.com/
+  img: http://voicesofvr.com/wp-content/uploads/2014/05/voices-of-vr-header-image-faded.jpg
   type: Podcast
 
-- title: Data Skeptic
-  url: https://dataskeptic.com/
-  img: https://is2-ssl.mzstatic.com/image/thumb/Podcasts113/v4/71/4e/c1/714ec174-6f69-6f76-820e-456c616e4a4a/mza_16357434423530327553.jpg/313x0w.jpg
+- title: iot for all
+  url: https://www.iotforall.com/podcast-overview
+  img: https://www.iotforall.com/wp-content/uploads/2017/04/iotforall-05.png
   type: Podcast
 
 - title: threat post
@@ -93,20 +93,40 @@ links:
   img: https://pbs.twimg.com/media/DgqAI7OUYAAQEb6?format=jpg&name=small
   type: Podcast
 
+- title: Darknet Diaries
+  url: https://darknetdiaries.com/episode/
+  img: https://upload.wikimedia.org/wikipedia/en/6/6a/Darknet_Diaries_podcast_artwork.jpg
+  type: Podcast
+
+- title: Unsupervised Learning
+  url: https://danielmiessler.com/podcast/
+  img: https://danielmiessler.com/images/screen-shot-2020-09-01-at-7.16.57-pm.jpeg
+  type: Podcast
+
 - title: Screaming in the Cloud
   url: https://www.screaminginthecloud.com/
   img: https://19x50e48lpyz2s9tzz3qjjsn-wpengine.netdna-ssl.com/wp-content/uploads/2019/09/sitc-icon.svg
   type: Podcast
 
-- title: This is Product Management
-  url: https://www.thisisproductmanagement.com/
-  img: https://rb1dc44y9sz2iplo210wsjm1-wpengine.netdna-ssl.com/wp-content/uploads/2019/11/tipm-logo-green.png
+- title: The Data Exchange
+  url: https://www.stitcher.com/podcast/the-data-exchange
+  img: https://secureimg.stitcher.com/feedimagesplain328/482640.jpg
   type: Podcast
 
 - title: Software Engineering Daily
   url: https://softwareengineeringdaily.com/category/all-episodes/exclusive-content/Podcast/
   img: https://i2.wp.com/softwareengineeringdaily.com/wp-content/uploads/2018/05/sed-logo.png?zoom=1.100000023841858&fit=67%2C67&ssl=1
   type: Podcast
+
+#- title: Partially Derivative
+#  url: http://partiallyderivative.com/
+#  img: https://feeds.backtracks.fm/feeds/series/b8608df0-843c-11e7-86c7-0e84392478bc/images/main.png?1580367703894
+#  type: Podcast
+
+#- title: Data Skeptic
+#  url: https://dataskeptic.com/
+#  img: https://is2-ssl.mzstatic.com/image/thumb/Podcasts113/v4/71/4e/c1/714ec174-6f69-6f76-820e-456c616e4a4a/mza_16357434423530327553.jpg/313x0w.jpg
+#  type: Podcast
 
 # Prior podcast links
 #- title: Data Show
@@ -126,7 +146,7 @@ links:
 
 - title: Khan Academy
   url: https://www.khanacademy.org/
-  img: https://pbs.twimg.com/profile_images/1021871312195612673/MlailSlw_400x400.jpg
+  img: https://avatars0.githubusercontent.com/u/15455?s=200&v=4
   type: Learning
 
 - title: Udacity
@@ -141,7 +161,7 @@ links:
 
 - title: Coursera
   url: https://www.coursera.org/
-  img: https://pbs.twimg.com/profile_images/579039906804023296/RWDlntRx_400x400.jpeg
+  img: https://images.ctfassets.net/00atxywtfxvd/2MlqAOzmHjSPtssv6HlNox/1cb35b40775835a5f574ebc5509907a1/coursera-wordmark-blue.svg
   type: Learning
 
 - title: Udemy
