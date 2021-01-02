@@ -10,7 +10,7 @@ projects:
   tech: React, Firebase, Formspree, HTML, CSS, Bootstrap, GitHub Pages.
 
 - title: Fullstack Networking
-  urldeployed: https://bcbc-fullstack.herokuapp.com/
+  urldeployed: Archived
   urlrepo: https://github.com/jkawahara/Fullstack
   img: assets/images/fullstack.png
   description: Fullstack coding boot camp web app enables user to organize curriculum & increase networking engagement.
@@ -18,7 +18,7 @@ projects:
   tech: Node, Express, MySQL, Passport, Sequelize, Chart, React, HTML, CSS, Material Design Bootstrap, Heroku.
 
 - title: Pawstagram Social Media
-  urldeployed: https://bcbc-pawstagram.herokuapp.com/
+  urldeployed: Archived
   urlrepo: https://github.com/jkawahara/Pawstagram
   img: assets/images/pawstagram.png
   description: Pawstagram social media web app enables user to show off photos of pets, join communities to chat & meet up.
@@ -34,7 +34,7 @@ projects:
   tech: Jekyll, Markdown, Liquid, Front Matter, Formspree, HTML, CSS, Bootstrap, GitHub Pages.
 
 - title: Google Books Search
-  urldeployed: https://bcbc-gbooks-search.herokuapp.com/
+  urldeployed: Archived
   urlrepo: https://github.com/jkawahara/nyt-gbooks-search
   img: assets/images/gbooks.png
   description: Google Books Search web app enables user to search Google Books, view and save for later viewing.
@@ -42,7 +42,7 @@ projects:
   tech: Node, Express, React, MongoDB, Mongoose, HTML, CSS, Bootstrap, Heroku.
 
 - title: News Scraper
-  urldeployed: https://bcbc-news-scraper.herokuapp.com/
+  urldeployed: Archived
   urlrepo: https://github.com/jkawahara/news-scraper
   img: assets/images/newsscraper.png
   description: News Scraper web app enables user to view and leave comments on the latest astronomy news.
@@ -50,7 +50,7 @@ projects:
   tech: Node, Express, MongoDB, Mongoose, Cheerio, Handlebars, HTML, CSS, Bootstrap, Heroku.
 
 - title: Train Scheduler
-  urldeployed: https://jkawahara.github.io/train-scheduler/
+  urldeployed: Archived
   urlrepo: https://github.com/jkawahara/train-scheduler
   img: assets/images/trainscheduler.png
   description: Train Scheduler web app enables user to view and manage train schedules.
