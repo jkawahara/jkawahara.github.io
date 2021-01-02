@@ -11,9 +11,11 @@ heading: Software Apps Portfolio
 <section onscroll="scrollIndicator()" class="main-section mb-4" style="display: inline-block;overflow: auto;height: 540px">
   {% for item in site.data.portfolio-software.projects %}
     <div class="work mb-4">
+      {% if item.urldeployed != "Archived" %}
       <a href="{{ item.urldeployed }}">
         <u><em>Deployed {{ item.title }}</em></u>
       </a>
+      {% endif %}
       <a class="float-right" href="{{ item.urlrepo }}">
         <u><em>GitHub Repo</em></u>
       </a>
