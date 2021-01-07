@@ -1,6 +1,14 @@
 projects_title: Data Software Portfolio
 projects:
 
+- title: KawShon DEV's Guide to the Galaxy
+  urldeployed: https://jkawahara.github.io/
+  urlrepo: https://github.com/jkawahara/jkawahara.github.io
+  img: assets/images/kawshon.png
+  description: KawShon DEV's Guide to the Galaxy static web page presents a portfolio of projects and blogging posts.
+  role: Responsible for design, development, operations and documentation.
+  tech: Jekyll, Markdown, Liquid, Front Matter, Formspree, HTML, CSS, Bootstrap, GitHub Pages.
+
 - title: Chuscanos Wedding Communications
   urldeployed: https://chuscanos.com/
   urlrepo: https://github.com/jkawahara/chuscanos
@@ -24,14 +32,6 @@ projects:
   description: Pawstagram social media web app enables user to show off photos of pets, join communities to chat & meet up.
   role: Responsible for overall MVC design pattern, controller routing, documentation & deployment.
   tech: Node, Express, MySQL, Firebase, Passport, Sequelize, Handlebars, HTML, CSS, Material Design Bootstrap, Heroku.
-
-- title: KawShon DEV's Guide to the Galaxy
-  urldeployed: https://jkawahara.github.io/
-  urlrepo: https://github.com/jkawahara/jkawahara.github.io
-  img: assets/images/kawshon.png
-  description: KawShon DEV's Guide to the Galaxy static web page presents a portfolio of projects and blogging posts.
-  role: Responsible for design, development, operations and documentation.
-  tech: Jekyll, Markdown, Liquid, Front Matter, Formspree, HTML, CSS, Bootstrap, GitHub Pages.
 
 - title: Google Books Search
   urldeployed: Archived

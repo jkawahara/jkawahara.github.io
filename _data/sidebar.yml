@@ -1,15 +1,35 @@
 links_title: Sidebar Data
 links:
 
-- title: Insight Centers
-  url: https://aws.amazon.com/blogs/industries/aws-and-novartis-re-inventing-pharma-manufacturing/
-  img: /assets/images/insightcenters.png
+- title: Industry 4.0
+  url: https://www2.deloitte.com/us/en/insights/focus/industry-4-0.html
+  img: /assets/images/industry4.png
   type: Concept
 
-- title: Data Lakes
-  url: https://www.i-scoop.eu/big-data-action-value-context/data-lakes/
-  img: /assets/images/datalakes-how.png
+- title: Cybersecurity Framework
+  url: https://www.nist.gov/cyberframework/framework
+  img: /assets/images/cybersecurityfw.png
   type: Concept
+
+- title: Discovery & Delivery
+  url: https://www.youtube.com/channel/UCr8yUEpVeDXt3Gs2ZxEqmsw
+  img: /assets/images/discover-delivery.png
+  type: Concept
+
+- title: Risk Management Framework
+  url: https://csrc.nist.gov/projects/risk-management/rmf-overview
+  img: /assets/images/riskmgmtfw.png
+  type: Concept
+
+# - title: Insight Centers
+#   url: https://aws.amazon.com/blogs/industries/aws-and-novartis-re-inventing-pharma-manufacturing/
+#   img: /assets/images/insightcenters.png
+#   type: Concept
+
+# - title: Data Lakes
+#   url: https://www.i-scoop.eu/big-data-action-value-context/data-lakes/
+#   img: /assets/images/datalakes-how.png
+#   type: Concept
 
 # Prior concept links
 #- title: Lean PMO & Agile
@@ -170,7 +190,7 @@ links:
   type: Learning
 
 - title: Machine Learning
-  url: https://medium.com/topic/machine-learning
+  url: https://medium.com/topic/cybersecurity
   img: /assets/images/medium.png
   type: Media
 
