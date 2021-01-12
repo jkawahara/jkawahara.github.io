@@ -21,6 +21,11 @@ links:
   img: /assets/images/riskmgmtfw.png
   type: Concept
 
+- title: ISO 27K Family
+  url: https://en.wikipedia.org/wiki/ISO/IEC_27000-series
+  img: /assets/images/iso27k.png
+  type: Concept
+
 # - title: Insight Centers
 #   url: https://aws.amazon.com/blogs/industries/aws-and-novartis-re-inventing-pharma-manufacturing/
 #   img: /assets/images/insightcenters.png

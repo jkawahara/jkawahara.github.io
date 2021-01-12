@@ -4,11 +4,11 @@ pages:
 - title: About Me
   url: index.html
 
-- title: Software Apps Portfolio
-  url: software.html
-
 - title: Product Roadmap Portfolio
   url: product.html
+
+- title: Software Apps Portfolio
+  url: software.html
 
 - title: Learning Blog
   url: learning.html
