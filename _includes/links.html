@@ -7,6 +7,30 @@
     {% endfor %}
   <br><br>
   
+  <p><em>Podcast Links:</em></p>
+    {% for item in site.data.sidebar.links %}
+      {% if item.type == "Podcast" %}
+        <a href="{{ item.url }}"><img src="{{ item.img }}" class="social" alt="{{ item.title }}" width="50"></a>
+      {% endif %}
+    {% endfor %}
+  <br><br>
+
+  <p><em>Media Links:</em></p>
+    {% for item in site.data.sidebar.links %}
+      {% if item.type == "Media" %}
+        <a href="{{ item.url }}"><img src="{{ item.img }}" class="social" alt="{{ item.title }}" width="50"></a>
+      {% endif %}
+    {% endfor %}
+  <br><br>
+
+  <p><em>Free Learning Links:</em></p>
+    {% for item in site.data.sidebar.links %}
+      {% if item.type == "Learning" %}
+        <a href="{{ item.url }}"><img src="{{ item.img }}" class="social" alt="{{ item.title }}" width="50"></a>
+      {% endif %}
+    {% endfor %}
+  <br><br>
+
   <p><em>Concept Links:</em></p>
     <div id="carousel" class="carousel slide carousel-fade" data-ride="carousel">
       <ol class="carousel-indicators">
@@ -36,29 +60,5 @@
         <span class="sr-only">Next</span>
       </a>
     </div>
-  <br><br>
-
-  <p><em>Podcast Links:</em></p>
-    {% for item in site.data.sidebar.links %}
-      {% if item.type == "Podcast" %}
-        <a href="{{ item.url }}"><img src="{{ item.img }}" class="social" alt="{{ item.title }}" width="50"></a>
-      {% endif %}
-    {% endfor %}
-  <br><br>
-
-  <p><em>Media Links:</em></p>
-    {% for item in site.data.sidebar.links %}
-      {% if item.type == "Media" %}
-        <a href="{{ item.url }}"><img src="{{ item.img }}" class="social" alt="{{ item.title }}" width="50"></a>
-      {% endif %}
-    {% endfor %}
-  <br><br>
-
-  <p><em>Free Learning Links:</em></p>
-    {% for item in site.data.sidebar.links %}
-      {% if item.type == "Learning" %}
-        <a href="{{ item.url }}"><img src="{{ item.img }}" class="social" alt="{{ item.title }}" width="50"></a>
-      {% endif %}
-    {% endfor %}
   <br><br>
 </aside>

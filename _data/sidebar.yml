@@ -31,10 +31,10 @@ links:
 #   img: /assets/images/insightcenters.png
 #   type: Concept
 
-# - title: Data Lakes
-#   url: https://www.i-scoop.eu/big-data-action-value-context/data-lakes/
-#   img: /assets/images/datalakes-how.png
-#   type: Concept
+- title: Data Lakes
+  url: https://www.i-scoop.eu/big-data-action-value-context/data-lakes/
+  img: /assets/images/datalakes-how.png
+  type: Concept
 
 # Prior concept links
 #- title: Lean PMO & Agile
