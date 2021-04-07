@@ -10,7 +10,7 @@ projects:
   tech: Jekyll, Markdown, Liquid, Front Matter, Formspree, HTML, CSS, Bootstrap, GitHub Pages.
 
 - title: Chuscanos Wedding Communications
-  urldeployed: https://chuscanos.com/
+  urldeployed: Archived
   urlrepo: https://github.com/jkawahara/chuscanos
   img: assets/images/chuscanos.png
   description: Chuscanos static web page presents wedding communications.
