@@ -1,0 +1,19 @@
+I"<p>After some thought on blogging, and a very helpful suggestion by <a href="https://github.com/androidgrl">androidgrl</a>, decided to go with Jekyll for a simple, static website, served up on my GitHub Page.</p>
+
+<p><a href="https://jekyllrb.com/docs/">Installation of Jekyll and bundler gems</a> on macOS:</p>
+
+<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="n">gem</span> <span class="n">install</span> <span class="n">bundler</span> <span class="n">jekyll</span></code></pre></figure>
+
+<p>Checked out the <a href="https://jekyllthemes.io/free">Free Jekyll Themes</a> and selected the <a href="https://jekyllthemes.io/theme/architect-theme">Architect</a> free template (thanks to <a href="https://github.com/pietromenna">pietromenna</a>!) instead of creating a site from scratch.</p>
+
+<p><a href="https://jekyllrb.com/docs/step-by-step/01-setup/">Jekyll Tutorial</a>, with 10 simple steps including intro to Liquid and Front Matter, was quite helpful. As a coding newb, still feel comfy with the simplicity of Jekyll even though not just HTML and CSS.</p>
+
+<p>Testing was simple by <a href="https://jekyllrb.com/docs/">building and making available</a> on localhost:4000:</p>
+
+<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="n">bundle</span> <span class="nb">exec</span> <span class="n">jekyll</span> <span class="n">serve</span></code></pre></figure>
+
+<p>Finally the reward of deploying to my GitHub Page:) This was done by setting up Git gracking of the local directory along with setting up a remote GitHub repo as “username.github.io” then leveraging default configuration for “master branch” as source:</p>
+
+<p><img src="/assets/images/github_pages_config.png" alt="github_pages_config.png" /></p>
+
+:ET

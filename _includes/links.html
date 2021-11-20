@@ -15,21 +15,21 @@
     {% endfor %}
   <br><br>
 
-  <p><em>Media Links:</em></p>
+  <p><em>InfoSec / Privacy Links:</em></p>
     {% for item in site.data.sidebar.links %}
-      {% if item.type == "Media" %}
+      {% if item.type == "ISP" %}
         <a href="{{ item.url }}"><img src="{{ item.img }}" class="social" alt="{{ item.title }}" width="50"></a>
       {% endif %}
     {% endfor %}
   <br><br>
 
-  <p><em>Free Learning Links:</em></p>
+  <!-- <p><em>Free Learning Links:</em></p>
     {% for item in site.data.sidebar.links %}
       {% if item.type == "Learning" %}
         <a href="{{ item.url }}"><img src="{{ item.img }}" class="social" alt="{{ item.title }}" width="50"></a>
       {% endif %}
     {% endfor %}
-  <br><br>
+  <br><br> -->
 
   <p><em>Concept Links:</em></p>
     <div id="carousel" class="carousel slide carousel-fade" data-ride="carousel">

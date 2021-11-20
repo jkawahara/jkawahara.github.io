@@ -1,6 +1,12 @@
 links_title: Sidebar Data
 links:
 
+
+- title: InfoSec
+  url: https://en.wikipedia.org/wiki/Information_security
+  img: /assets/images/infosec.png
+  type: Concept
+  
 - title: Industry 4.0
   url: https://www2.deloitte.com/us/en/insights/focus/industry-4-0.html
   img: /assets/images/industry4.png
@@ -11,10 +17,10 @@ links:
   img: /assets/images/cybersecurityfw.png
   type: Concept
 
-- title: Discovery & Delivery
-  url: https://www.youtube.com/channel/UCr8yUEpVeDXt3Gs2ZxEqmsw
-  img: /assets/images/discover-delivery.png
-  type: Concept
+#- title: Discovery & Delivery
+#  url: https://www.youtube.com/channel/UCr8yUEpVeDXt3Gs2ZxEqmsw
+#  img: /assets/images/discover-delivery.png
+#  type: Concept
 
 - title: Risk Management Framework
   url: https://csrc.nist.gov/projects/risk-management/rmf-overview
@@ -31,20 +37,14 @@ links:
 #   img: /assets/images/insightcenters.png
 #   type: Concept
 
-- title: Data Lakes
-  url: https://www.i-scoop.eu/big-data-action-value-context/data-lakes/
-  img: /assets/images/datalakes-how.png
-  type: Concept
+# - title: Data Lakes
+#   url: https://www.i-scoop.eu/big-data-action-value-context/data-lakes/
+#   img: /assets/images/datalakes-how.png
+#   type: Concept
 
-# Prior concept links
 #- title: Lean PMO & Agile
 #  url: https://itrevolution.com/pmo-dead-long-live-pmo/
 #  img: /assets/images/leanpmo.png
-#  type: Concept
-
-#- title: InfoSec
-#  url: https://en.wikipedia.org/wiki/Information_security
-#  img: /assets/images/infosec.png
 #  type: Concept
   
 #- title: Scrum
@@ -67,41 +67,30 @@ links:
 #  img: /assets/images/storymap.png
 #  type: Concept
 
-# Prior concept links
-#- title: MLconf
-#  url: https://mlconf.com/sessions/?event=mlconf-2018-sf&search=
-#  img: /assets/images/mlconf.png
-#  type: Concept
-
-#- title: Product Mgmt
-#  url: https://www.youtube.com/watch?v=sxGJha37iQA
-#  img: /assets/images/prodmgmt.png
-#  type: Concept
-
-#- title: Story Map
-#  url: http://www.jpattonassociates.com/wp-content/uploads/2015/03/story_mapping.pdf
-#  img: /assets/images/storymap.png
-#  type: Concept
+- title: Twitter
+  url: https://twitter.com/kawshon
+  img: /assets/images/twitter.png
+  type: Connection
 
 - title: GitHub
   url: https://github.com/jkawahara
   img: /assets/images/github.png
   type: Connection
 
-- title: LinkedIn
-  url: https://www.linkedin.com/in/johnkawahara/
-  img: /assets/images/linkedin.jpeg
-  type: Connection
+# - title: LinkedIn
+#   url: https://www.linkedin.com/in/johnkawahara/
+#   img: /assets/images/linkedin.jpeg
+#   type: Connection
 
-- title: Stack Overflow
-  url: https://stackoverflow.com/users/7570912/john-kawahara?tab=profile
-  img: /assets/images/stackoverflow.png
-  type: Connection
+# - title: Stack Overflow
+#   url: https://stackoverflow.com/users/7570912/john-kawahara?tab=profile
+#   img: /assets/images/stackoverflow.png
+#   type: Connection
 
-- title: This is Product Management
-  url: https://www.thisisproductmanagement.com/
-  img: https://blog.feedbackloop.com/hubfs/raw_assets/public/Feedback_Loop_Sep2020/images/logo.svg
-  type: Podcast
+#- title: This is Product Management
+#  url: https://www.thisisproductmanagement.com/
+#  img: https://blog.feedbackloop.com/hubfs/raw_assets/public/Feedback_Loop_Sep2020/images/logo.svg
+#  type: Podcast
 
 - title: Voices of VR Podcast
   url: https://voicesofvr.com/
@@ -110,7 +99,7 @@ links:
 
 - title: iot for all
   url: https://www.iotforall.com/podcast-overview
-  img: https://www.iotforall.com/wp-content/uploads/2017/04/iotforall-05.png
+  img: https://www.iotforall.com/wp-content/uploads/2020/09/Iotforall-logo.png
   type: Podcast
 
 - title: threat post
@@ -164,47 +153,58 @@ links:
 #  img: http://datadrivensecurity.info/podcast/theme/images/ddspc.png
 #  type: Podcast
 
-- title: freeCodeCamp
-  url: https://learn.freecodecamp.org/
-  img: /assets/images/freecodecamp.png
-  type: Learning
+# - title: freeCodeCamp
+#   url: https://learn.freecodecamp.org/
+#   img: /assets/images/freecodecamp.png
+#   type: Learning
 
-- title: Khan Academy
-  url: https://www.khanacademy.org/
-  img: https://avatars0.githubusercontent.com/u/15455?s=200&v=4
-  type: Learning
+# - title: Khan Academy
+#   url: https://www.khanacademy.org/
+#   img: https://avatars0.githubusercontent.com/u/15455?s=200&v=4
+#   type: Learning
 
-- title: Udacity
-  url: https://www.udacity.com/
-  img: https://static.intercomassets.com/avatars/765565/square_128/custom_avatar-1542173755.png?1542173755
-  type: Learning
+# - title: Udacity
+#   url: https://www.udacity.com/
+#   img: https://static.intercomassets.com/avatars/765565/square_128/custom_avatar-1542173755.png?1542173755
+#   type: Learning
 
-- title: edX
-  url: https://www.edx.org/
-  img: https://prod-edxapp.edx-cdn.org/static/edx.org/images/logo-footer.fde85fe42f6b.png
-  type: Learning
+# - title: edX
+#   url: https://www.edx.org/
+#   img: https://prod-edxapp.edx-cdn.org/static/edx.org/images/logo-footer.fde85fe42f6b.png
+#   type: Learning
 
-- title: Coursera
-  url: https://www.coursera.org/
-  img: https://images.ctfassets.net/00atxywtfxvd/2MlqAOzmHjSPtssv6HlNox/1cb35b40775835a5f574ebc5509907a1/coursera-wordmark-blue.svg
-  type: Learning
+# - title: Coursera
+#   url: https://www.coursera.org/
+#   img: https://images.ctfassets.net/00atxywtfxvd/2MlqAOzmHjSPtssv6HlNox/1cb35b40775835a5f574ebc5509907a1/coursera-wordmark-blue.svg
+#   type: Learning
 
-- title: Udemy
-  url: https://www.udemy.com/courses/search/?src=ukw&q=free+courses
-  img: https://media.licdn.com/dms/image/C510BAQFKXnLDglG5qA/company-logo_200_200/0?e=2159024400&v=beta&t=QKdDCJSmbaDE2mkA5ndgR407zzyfU4QEZQ0Hd769vBI
-  type: Learning
+# - title: Udemy
+#   url: https://www.udemy.com/courses/search/?src=ukw&q=free+courses
+#   img: https://media.licdn.com/dms/image/C510BAQFKXnLDglG5qA/company-logo_200_200/0?e=2159024400&v=beta&t=QKdDCJSmbaDE2mkA5ndgR407zzyfU4QEZQ0Hd769vBI
+#   type: Learning
 
-- title: Machine Learning
+# - title: freeCodeCamp
+#   url: https://www.freecodecamp.org/forum/
+#   img: /assets/images/freecodecamp.png
+#   type: Learning
+
+# - title: Reddit
+#   url: https://www.reddit.com/r/learnprogramming
+#   img: /assets/images/subreddit.png
+#   type: Learning
+
+- title: EFF
+  url: https://www.eff.org/
+  img: /assets/images/eff.png
+  type: ISP
+
+- title: Schneier on Security
+  url: https://www.schneier.com/
+  img: /assets/images/sos.png
+  type: ISP
+
+- title: Medium
   url: https://medium.com/topic/cybersecurity
   img: /assets/images/medium.png
-  type: Media
+  type: ISP
 
-- title: freeCodeCamp
-  url: https://www.freecodecamp.org/forum/
-  img: /assets/images/freecodecamp.png
-  type: Media
-
-- title: Reddit
-  url: https://www.reddit.com/r/learnprogramming
-  img: /assets/images/subreddit.png
-  type: Media
